@@ -1,0 +1,1168 @@
+cust_id,name,city,state,email,age,member,Channel
+854, Milo Thomas,Tempe,AZ, MiloThomas@aol.com,12,yes,email news blast
+848, Genevieve gunnersan,West Jordan,UT, Genevievegunnersan@aol.com,13,yes,google search
+4,Sofia Phillips,Knoxville,TN,SofiaPhillips@gmail.com,53,yes,tv show
+650, Aubrey Turner,Pittsburgh,PA, AubreyTurner@gmail.com,19,no,google search
+124, Eva Edwards,Modesto,CA, EvaEdwards@gmail.com,12,yes,referred by someone
+250, Ezra Davis,Manchester,NH, EzraDavis@gmail.com,36,yes,tv show
+712, William Scott,Ann Arbor,MI, WilliamScott@gmail.com,54,no,tv show
+932, Jude Long,Goodyear,AZ, JudeLong@yahoo.com,31,yes,tv show
+872,Arya Ryans,Edinburg,TX,AryaRyans@yahoo.com,53,yes,tik tok
+241, Ivy Anderson,Athens ,GA, IvyAnderson@gmail.com,12,yes,instagram
+43, Ariel Perez,Dallas,TX, ArielPerez@gmail.com,43,no,referred by someone
+1001, Caroline Bennett,Berkeley,CA, CarolineBennett@yahoo.com,40,yes,tv show
+621, Wesley Hill,Greensboro,NC, WesleyHill@gmail.com,50,no,tik tok
+24, Tate Lafleur,Edinburg,TX, TateLafleur@gmail.com,9,no,tv show
+51, Luca Roberts,Kansas City,KS, LucaRoberts@gmail.com,49,no,tv show
+504, Lucas Phillips,Tulsa,OK, LucasPhillips@gmail.com,28,yes,tv show
+741, Soren Williams,Mesa,AZ, SorenWilliams@gmail.com,27,no,tv show
+969, Elsie Harris,Tyler,TX, ElsieHarris@yahoo.com,22,yes,tv show
+14, Sage Morgan,Kent,WA, SageMorgan@gmail.com,27,no,email news blast
+149, William Baker,Tuscaloosa,AL, WilliamBaker@gmail.com,23,yes,email news blast
+156, Samuel Chavez,Sacramento,CA, SamuelChavez@gmail.com,43,yes,email news blast
+207, Cora Sanchez,Buffalo,NY, CoraSanchez@gmail.com,41,yes,email news blast
+254, Adalyn Lewis,South Bend,IN, AdalynLewis@gmail.com,23,yes,email news blast
+272, Jackson Martin,Vacaville,CA, JacksonMartin@gmail.com,14,no,email news blast
+491, Benjamin Kim,Seattle,WA, BenjaminKim@gmail.com,27,yes,email news blast
+526, Kieran Wang,Ann Arbor,MI, KieranWang@gmail.com,46,yes,email news blast
+593, Hunter Duncan,San Mateo,CA, HunterDuncan@gmail.com,28,yes,email news blast
+18, Matilda Smith,Suffolk,VA, MatildaSmith@gmail.com,9,no,google search
+52, Josephine gunderson,Rialto,CA, Josephinegunderson@gmail.com,22,no,google search
+81, Jackson Chung,Torrance,CA, JacksonChung@gmail.com,48,no,google search
+425,Aiden Won,Springfield,IL,AidenWon@gmail.com,50,yes,google search
+458, Camden Won,Meridian,ID, CamdenWon@gmail.com,17,yes,google search
+883, Avery Allen,Palm Coast,FL, AveryAllen@yahoo.com,27,yes,google search
+914,Killian Bennett,San Jose,CA,KillianBennett@yahoo.com,36,yes,google search
+1141, Akira Young,Chicago,IL, AkiraYoung@hotmail.com,15,No,google search
+50, Archie Edwards,Greeley,CO, ArchieEdwards@gmail.com,44,no,instagram
+130, Scarlett guthrie,Odessa,TX, Scarlettguthrie@gmail.com,9,yes,instagram
+152, Levi Campbell,Norman,OK, LeviCampbell@gmail.com,47,yes,instagram
+177, Lucy Walker,Los Angeles,CA, LucyWalker@gmail.com,9,yes,instagram
+227, Adeline Bennett,Lee's Summit,MO, AdelineBennett@gmail.com,34,yes,instagram
+707, Poppy Garcia,St. George,UT, PoppyGarcia@gmail.com,30,no,instagram
+958, Fiona Garcia,Brownsville,TX, FionaGarcia@yahoo.com,30,yes,instagram
+965, Dylan Taylor,Rancho Cucamonga,CA, DylanTaylor@yahoo.com,46,yes,instagram
+261, Atlas Wallace,South Bend,IN, AtlasWallace@gmail.com,51,no,referred by someone
+329, Lorelei Hernandez,Downey,CA, LoreleiHernandez@gmail.com,31,yes,referred by someone
+343, Dakota Scott,Fontana,CA, DakotaScott@gmail.com,31,yes,referred by someone
+509, William Peterson,Dayton,OH, WilliamPeterson@gmail.com,33,yes,referred by someone
+552, Elowen Murphy,Frisco,TX, ElowenMurphy@gmail.com,40,yes,referred by someone
+674, Cadence Bennett,Worcester,MA, CadenceBennett@gmail.com,27,no,referred by someone
+754, Daphne Chung,New Orleans,LA, DaphneChung@gmail.com,37,no,referred by someone
+1011, Jane Thompson,Tucson,AZ, JaneThompson@yahoo.com,27,yes,referred by someone
+1060, Lydia Phillips,Gresham,OR, LydiaPhillips@hotmail.com,14,yes,referred by someone
+362, Akira Lafleur,Boston,MA, AkiraLafleur@gmail.com,45,yes,tv show
+813, Dorian Parker,San Buenaventura ,CA, DorianParker@gmail.com,8,yes,tv show
+859, Eliza Thompson,Quincy,MA, ElizaThompson@aol.com,44,yes,tv show
+897, Logan Roberts,Houston,TX, LoganRoberts@yahoo.com,53,yes,tv show
+217, Alaric Kelly,Naperville,IL, AlaricKelly@gmail.com,48,yes,tik tok
+331, Blair Harris,Sterling Heights,MI, BlairHarris@gmail.com,49,yes,tik tok
+679, Genevieve Roberts,Honolulu ,HI, GenevieveRoberts@gmail.com,39,no,tik tok
+787, Ethan Griffin,Ontario,CA, EthanGriffin@gmail.com,40,yes,tik tok
+855, Harper Thomas,Lexington ,KY, HarperThomas@aol.com,14,yes,tik tok
+41, Logan Tomlin,Antioch,CA, LoganTomlin@gmail.com,43,no,tv show
+76, Maddox Edwards,Norman,OK, MaddoxEdwards@gmail.com,54,no,tv show
+94, Ethan Allen,Richmond,VA, EthanAllen@gmail.com,44,no,tv show
+99, Valerie Rodriguez,Broken Arrow,OK, ValerieRodriguez@gmail.com,16,no,tv show
+107, Riley Rodriguez,Honolulu ,HI, RileyRodriguez@gmail.com,16,no,tv show
+118, Noah Wallace,Charleston,SC, NoahWallace@gmail.com,8,yes,tv show
+170, Evan Simmons,Sunrise Manor,NV, EvanSimmons@gmail.com,20,yes,tv show
+171, Cameron Kim,Olathe,KS, CameronKim@gmail.com,8,yes,tv show
+197, Matilda Sanchez,San Diego,CA, MatildaSanchez@gmail.com,20,yes,tv show
+220, Mason Jenkins,Bakersfield,CA, MasonJenkins@gmail.com,53,yes,tv show
+233, Celeste Garcia,Richmond,VA, CelesteGarcia@gmail.com,26,yes,tv show
+234, Winter Sanchez,Westminster,CO, WinterSanchez@gmail.com,22,yes,tv show
+252, Echo Long,Cape Coral,FL, EchoLong@gmail.com,50,yes,tv show
+263, Evangeline Tang,Gainesville,FL, EvangelineTang@gmail.com,23,no,tv show
+351, Elliott Lee,Palmdale,CA, ElliottLee@gmail.com,36,yes,tv show
+389, Clementine Campbell,Thousand Oaks,CA, ClementineCampbell@gmail.com,32,yes,tv show
+390, Lorelei Brooks,Ann Arbor,MI, LoreleiBrooks@gmail.com,42,yes,tv show
+416, Eva Davis,Glendale,AZ, EvaDavis@gmail.com,54,yes,tv show
+434,Norah Hughes,Davie,FL,NorahHughes@gmail.com,53,yes,tv show
+459, Rowan Lee,Hartford,CT, RowanLee@gmail.com,14,yes,tv show
+462, Cadence Johnson,Murfreesboro,TN, CadenceJohnson@gmail.com,46,yes,tv show
+479, Daisy Smith,St. Louis,MO, DaisySmith@gmail.com,31,yes,tv show
+496, Autumn Peterson,Topeka,KS, AutumnPeterson@gmail.com,8,yes,tv show
+497, Axel Won,Costa Mesa,CA, AxelWon@gmail.com,12,yes,tv show
+551, Saoirse guthrie,Nampa,ID, Saoirseguthrie@gmail.com,54,yes,tv show
+582, Cora Hernandez,Springfield,IL, CoraHernandez@gmail.com,14,yes,tv show
+586, Otto Hernandez,Louisville ,KY, OttoHernandez@gmail.com,15,yes,tv show
+615, Axel Chavez,Carlsbad,CA, AxelChavez@gmail.com,35,no,tv show
+629, Wesley Jackson,Savannah,GA, WesleyJackson@gmail.com,32,no,tv show
+662, Wesley Perez,Oceanside,CA, WesleyPerez@gmail.com,11,no,tv show
+684, Oliver Lewis,Paterson,NJ, OliverLewis@gmail.com,24,no,tv show
+708, Arden Campbell,College Station,TX, ArdenCampbell@gmail.com,48,no,tv show
+761, Ainsley Moore,Pembroke Pines,FL, AinsleyMoore@gmail.com,12,no,tv show
+764, Genevieve Murray,Tacoma,WA, GenevieveMurray@gmail.com,50,no,tv show
+766, Camille Williams,Springfield,IL, CamilleWilliams@gmail.com,21,no,tv show
+804, Winter gunthers,Laredo,TX, Wintergunthers@gmail.com,36,yes,tv show
+827, Callahan Edwards,Fayetteville,AR, CallahanEdwards@gmail.com,18,yes,tv show
+833, Acorn Jenkins,Ontario,CA, AcornJenkins@aol.com,45,yes,tv show
+865, Phoenix Simmons,Pearland,TX, PhoenixSimmons@aol.com,44,yes,tv show
+869, Camden Lee,Billings,MT, CamdenLee@yahoo.com,18,yes,tv show
+906, Cyrus Wilson,Tulsa,OK, CyrusWilson@yahoo.com,38,yes,tv show
+925, Phoenix Day,Metairie,LA, PhoenixDay@yahoo.com,41,yes,tv show
+942, Hazel Nelson,Washington,DC, HazelNelson@yahoo.com,24,yes,tv show
+948, Axel Perez,Grand Prairie,TX, AxelPerez@yahoo.com,50,yes,tv show
+1004, Lucy Kelly,West Covina,CA, LucyKelly@yahoo.com,34,yes,tv show
+1082, Nathaniel Cooper,Pearland,TX, NathanielCooper@hotmail.com,30,yes,tv show
+10, Everett Edwards,Torrance,CA, EverettEdwards@gmail.com,50,no,email news blast
+88,Norah Peterson,St. Petersburg,FL,NorahPeterson@gmail.com,25,yes,email news blast
+168, Sebastian Won,New Haven,CT, SebastianWon@gmail.com,46,yes,email news blast
+289, Dahlia Harris,Richmond,VA, DahliaHarris@gmail.com,12,no,email news blast
+320, Jamie Turner,Joliet,IL, JamieTurner@gmail.com,10,no,email news blast
+379, Silas Duncan,Visalia,CA, SilasDuncan@gmail.com,34,yes,email news blast
+502, Nora Rodriguez,Oxnard,CA, NoraRodriguez@gmail.com,34,yes,email news blast
+514, Finley Peterson,Odessa,TX, FinleyPeterson@gmail.com,18,yes,email news blast
+536, Abigail Barnes,Providence,RI, AbigailBarnes@gmail.com,13,yes,email news blast
+546,Alistair Kim,Cleveland,OH,AlistairKim@gmail.com,23,yes,email news blast
+549, Callan Miller,New Orleans,LA, CallanMiller@gmail.com,38,yes,email news blast
+581, Clove Simmons,Dearborn,MI, CloveSimmons@gmail.com,53,yes,email news blast
+600, Nolan Long,Little Rock,AR, NolanLong@gmail.com,11,no,email news blast
+618, Levi Baker,Corona,CA, LeviBaker@gmail.com,34,no,email news blast
+644, Beau Campbell,Laredo,TX, BeauCampbell@gmail.com,27,no,email news blast
+673, Micah Sanders,South Bend,IN, MicahSanders@gmail.com,30,no,email news blast
+737, Orion Taylor,Richmond,VA, OrionTaylor@gmail.com,50,no,email news blast
+738, Felicity Green,Sparks,NV, FelicityGreen@gmail.com,9,no,email news blast
+800, Rhys Edwards,Fairfield,CA, RhysEdwards@gmail.com,17,yes,email news blast
+802, Teagan Bailey,Indianapolis,IN, TeaganBailey@gmail.com,46,yes,email news blast
+806, Ezra Ryans,Long Beach,CA, EzraRyans@gmail.com,15,yes,email news blast
+815, Andrew Bennett,Richmond,VA, AndrewBennett@gmail.com,33,yes,email news blast
+819, Harlan Cooper,Chandler,AZ, HarlanCooper@gmail.com,10,yes,email news blast
+852, Isabella Lee,Palmdale,CA, IsabellaLee@aol.com,22,yes,email news blast
+899, Fletcher Chang,Boulder,CO, FletcherChang@yahoo.com,36,yes,email news blast
+910, Declan Hill,Spokane,WA, DeclanHill@yahoo.com,54,yes,email news blast
+911, Dean Wallace,Gresham,OR, DeanWallace@yahoo.com,25,yes,email news blast
+923,Myles Carter,Vancouver,WA,MylesCarter@yahoo.com,14,yes,email news blast
+1016, Meadow Evans,Spokane,WA, MeadowEvans@yahoo.com,13,yes,email news blast
+1031, Camille Harris,Alexandria,VA, CamilleHarris@hotmail.com,9,yes,email news blast
+1045, Opal Day,Santa Maria,CA, OpalDay@hotmail.com,32,yes,email news blast
+1049, Delaney Garcia,Yuma,AZ, DelaneyGarcia@hotmail.com,10,yes,email news blast
+1112, Gwendolyn Foster,Chattanooga,TN, GwendolynFoster@hotmail.com,13,No,email news blast
+1125, Adeline Williams,Antioch,CA, AdelineWilliams@hotmail.com,19,No,email news blast
+1150, Eliza Rodriguez,Nashville ,TN, ElizaRodriguez@hotmail.com,13,No,email news blast
+35, Aspen Thomas,Brownsville,TX, AspenThomas@gmail.com,11,no,google search
+102, Stella Carter,Gresham,OR, StellaCarter@gmail.com,15,no,google search
+165, Reese Long,Independence,MO, ReeseLong@gmail.com,19,yes,google search
+206, Callahan gunnersan,The Woodlands,TX, Callahangunnersan@gmail.com,15,yes,google search
+275, Nova Lee,Suffolk,VA, NovaLee@gmail.com,38,no,google search
+279, Samuel Lafleur,Nashville ,TN, SamuelLafleur@gmail.com,39,no,google search
+372, Theodore Cooper,Cape Coral,FL, TheodoreCooper@gmail.com,29,yes,google search
+426, Henry Turner,Denver,CO, HenryTurner@gmail.com,33,yes,google search
+444, Luke Hill,South Bend,IN, LukeHill@gmail.com,39,yes,google search
+512, Aria Young,Port St. Lucie,FL, AriaYoung@gmail.com,49,yes,google search
+539, Otto Tang,Lexington ,KY, OttoTang@gmail.com,23,yes,google search
+631,Norah Chavez,Ontario,CA,NorahChavez@gmail.com,26,no,google search
+646, Josephine Kelly,Denver,CO, JosephineKelly@gmail.com,24,no,google search
+661, Maddox Stewart,Beaumont,TX, MaddoxStewart@gmail.com,22,no,google search
+669, Harper Park,Rockford,IL, HarperPark@gmail.com,46,no,google search
+713, Jamie Sanders,Murrieta,CA, JamieSanders@gmail.com,43,no,google search
+723, Lydia Chang,Athens ,GA, LydiaChang@gmail.com,48,no,google search
+739, Charlie Mitchell,Albany,NY, CharlieMitchell@gmail.com,31,no,google search
+785, Nova Hill,Knoxville,TN, NovaHill@gmail.com,11,yes,google search
+810, Clover Bailey,Newark,NJ, CloverBailey@gmail.com,15,yes,google search
+887, Autumn Collins,Indianapolis,IN, AutumnCollins@yahoo.com,13,yes,google search
+900, Charlotte Foster,Surprise,AZ, CharlotteFoster@yahoo.com,41,yes,google search
+920, Forrest guthrie,Bridgeport,CT, Forrestguthrie@yahoo.com,34,yes,google search
+931, Esme Campbell,Fontana,CA, EsmeCampbell@yahoo.com,19,yes,google search
+945, Samuel Walker,New York,NY, SamuelWalker@yahoo.com,18,yes,google search
+997, Dylan Harbaugh,Sterling Heights,MI, DylanHarbaugh@yahoo.com,16,yes,google search
+1022, Scarlett Lee,Garland,TX, ScarlettLee@hotmail.com,18,yes,google search
+1028, Julian Harris,Elizabeth,NJ, JulianHarris@hotmail.com,24,yes,google search
+1032,Fynn Turner,Surprise,AZ,FynnTurner@hotmail.com,25,yes,google search
+1157, Bellamy Allen,Pomona,CA, BellamyAllen@hotmail.com,38,No,google search
+1163,Killian Won,Colorado Springs,CO,KillianWon@hotmail.com,50,No,google search
+59, Juno Wang,New York,NY, JunoWang@gmail.com,30,no,instagram
+66, Jackson Barnes,Las Cruces,NM, JacksonBarnes@gmail.com,37,no,instagram
+80, Julian guthrie,North Las Vegas,NV, Julianguthrie@gmail.com,17,no,instagram
+97, Matilda Hughes,Edison,NJ, MatildaHughes@gmail.com,19,no,instagram
+98, Adelaide Stewart,Las Cruces,NM, AdelaideStewart@gmail.com,30,no,instagram
+129,Sofia Murphy,Detroit,MI,SofiaMurphy@gmail.com,48,yes,instagram
+221, Sebastian Roberts,Brownsville,TX, SebastianRoberts@gmail.com,54,yes,instagram
+467, Callahan Miller,Jurupa Valley,CA, CallahanMiller@gmail.com,24,yes,instagram
+472, Acorn Jackson,Columbia,MD, AcornJackson@gmail.com,13,yes,instagram
+590,Aiden Ramirez,Goodyear,AZ,AidenRamirez@gmail.com,27,yes,instagram
+601, Clara Evans,Boston,MA, ClaraEvans@gmail.com,43,no,instagram
+639, Oakley Martin,Des Moines,IA, OakleyMartin@gmail.com,20,no,instagram
+676, Nora Won,Quincy,MA, NoraWon@gmail.com,44,no,instagram
+693, Maeve Robinson,Downey,CA, MaeveRobinson@gmail.com,30,no,instagram
+696,Elliott Murphy,Rockford,IL,ElliottMurphy@gmail.com,16,no,instagram
+768, Gavin Roberts,Albany,NY, GavinRoberts@gmail.com,10,no,instagram
+797, Harper Tang,Tuscaloosa,AL, HarperTang@gmail.com,10,yes,instagram
+842, Saoirse Cruz,Charlotte,NC, SaoirseCruz@aol.com,48,yes,instagram
+850, Iris Campbell,Winston-Salem,NC, IrisCampbell@aol.com,29,yes,instagram
+880, Hazel Day,Oklahoma City,OK, HazelDay@yahoo.com,28,yes,instagram
+885, Grace Foster,Eugene,OR, GraceFoster@yahoo.com,35,yes,instagram
+978, Theodore Perez,Centennial,CO, TheodorePerez@yahoo.com,39,yes,instagram
+1002, Harlow Sanchez,Olathe,KS, HarlowSanchez@yahoo.com,21,yes,instagram
+1078, Hunter Walker,Allen,TX, HunterWalker@hotmail.com,40,yes,instagram
+1134, Briar Kelly,Columbia,MD, BriarKelly@hotmail.com,15,No,instagram
+70, Rhett Nelson,Lee's Summit,MO, RhettNelson@gmail.com,23,no,referred by someone
+92, Mabel Tomlin,Richardson,TX, MabelTomlin@gmail.com,13,yes,referred by someone
+100, Benjamin Sanders,Evansville,IN, BenjaminSanders@gmail.com,8,no,referred by someone
+108, Mila Evans,Frisco,TX, MilaEvans@gmail.com,45,no,referred by someone
+122, Brody Murray,Fort Collins,CO, BrodyMurray@gmail.com,27,yes,referred by someone
+139, Arden Walker,Corona,CA, ArdenWalker@gmail.com,33,yes,referred by someone
+151, Eva Lafleur,Costa Mesa,CA, EvaLafleur@gmail.com,26,yes,referred by someone
+218, Aria gunderson,Rochester,NY, Ariagunderson@gmail.com,24,yes,referred by someone
+232, Nora Lee,Riverview,FL, NoraLee@gmail.com,51,yes,referred by someone
+267,Lilah Allen,Riverside,CA,LilahAllen@gmail.com,26,no,referred by someone
+274, Luca King,Portland,OR, LucaKing@gmail.com,45,no,referred by someone
+350, Athena Young,Hayward,CA, AthenaYoung@gmail.com,22,yes,referred by someone
+356, Emmett Kim,Round Rock,TX, EmmettKim@gmail.com,34,yes,referred by someone
+375, Daniel Thompson,Buckeye,AZ, DanielThompson@gmail.com,44,yes,referred by someone
+419, Celeste Peterson,Eugene,OR, CelestePeterson@gmail.com,43,yes,referred by someone
+438, Skye Lewis,Lafayette,LA, SkyeLewis@gmail.com,47,yes,referred by someone
+452, Jude Simmons,Columbia,MD, JudeSimmons@gmail.com,18,yes,referred by someone
+510,Norah Davis,Baton Rouge,LA,NorahDavis@gmail.com,25,yes,referred by someone
+562, Sadie White,Provo,UT, SadieWhite@gmail.com,45,yes,referred by someone
+656, Felix Griffin,El Paso,TX, FelixGriffin@gmail.com,23,no,referred by someone
+660, Margot gunderson,El Paso,TX, Margotgunderson@gmail.com,54,no,referred by someone
+682, Rhett Mitchell,Chattanooga,TN, RhettMitchell@gmail.com,26,no,referred by someone
+689, Maya Wilson,Tuscaloosa,AL, MayaWilson@gmail.com,20,no,referred by someone
+714, Saoirse Roberts,Glendale,AZ, SaoirseRoberts@gmail.com,44,no,referred by someone
+747, Archer Stewart,Sacramento,CA, ArcherStewart@gmail.com,53,no,referred by someone
+748, Jade Perez,West Covina,CA, JadePerez@gmail.com,43,no,referred by someone
+779, Blake gunthers,Omaha,NE, Blakegunthers@gmail.com,23,yes,referred by someone
+822, Elizabeth Simmons,West Palm Beach,FL, ElizabethSimmons@gmail.com,18,yes,referred by someone
+835, Camden Williams,Thornton,CO, CamdenWilliams@aol.com,25,yes,referred by someone
+970, Astrid Sanders,Ontario,CA, AstridSanders@yahoo.com,53,yes,referred by someone
+1062, Ronan Collins,Peoria,IL, RonanCollins@hotmail.com,14,yes,referred by someone
+1066, Adam Harbaugh,Hillsboro,OR, AdamHarbaugh@hotmail.com,26,yes,referred by someone
+1105, Marley Johnson,Independence,MO, MarleyJohnson@hotmail.com,14,yes,referred by someone
+1106, Vivian Hernandez,Pomona,CA, VivianHernandez@hotmail.com,48,No,referred by someone
+1151, Luca Sanchez,Cedar Rapids,IA, LucaSanchez@hotmail.com,39,No,referred by someone
+19, Axel Taylor,Fontana,CA, AxelTaylor@gmail.com,11,no,tv show
+38, Hudson Campbell,Jersey City,NJ, HudsonCampbell@gmail.com,39,no,tv show
+180, Akira King,Quincy,MA, AkiraKing@gmail.com,14,yes,tv show
+222, Emerson Harbaugh,Quincy,MA, EmersonHarbaugh@gmail.com,27,yes,tv show
+245, Jane Vrabel,Memphis,TN, JaneVrabel@gmail.com,19,yes,tv show
+352, Raine Long,Davenport,IA, RaineLong@gmail.com,23,yes,tv show
+367, Otto Cooper,Orlando,FL, OttoCooper@gmail.com,18,yes,tv show
+387, Archie Taylor,West Covina,CA, ArchieTaylor@gmail.com,19,yes,tv show
+406, Cameron Peterson,St. Petersburg,FL, CameronPeterson@gmail.com,33,yes,tv show
+457, Eva Garcia,Davenport,IA, EvaGarcia@gmail.com,30,yes,tv show
+469, Hannah Murphy,Sacramento,CA, HannahMurphy@gmail.com,45,yes,tv show
+486, Elijah Murphy,Portland,OR, ElijahMurphy@gmail.com,26,yes,tv show
+503, Ruth Kim,Fort Worth,TX, RuthKim@gmail.com,9,yes,tv show
+638, Evelyn Murphy,Akron,OH, EvelynMurphy@gmail.com,49,no,tv show
+651, Brody Won,Springfield,IL, BrodyWon@gmail.com,30,no,tv show
+653, Eli Thomas,Evansville,IN, EliThomas@gmail.com,45,no,tv show
+678, Elizabeth ichiro,Louisville ,KY, Elizabethichiro@gmail.com,37,no,tv show
+697, Aero Baker,Chicago,IL, AeroBaker@gmail.com,17,no,tv show
+736, Addison Nichols,Yuma,AZ, AddisonNichols@gmail.com,8,no,tv show
+750, Elias Wallace,Murfreesboro,TN, EliasWallace@gmail.com,32,no,tv show
+771, Ezra Walker,Buckeye,AZ, EzraWalker@gmail.com,32,no,tv show
+818, Harper Sanchez,Tuscaloosa,AL, HarperSanchez@gmail.com,16,yes,tv show
+823, Esme Nichols,Richmond,VA, EsmeNichols@gmail.com,48,yes,tv show
+825, Riley Kelly,Irvine,CA, RileyKelly@gmail.com,38,yes,tv show
+849, Dorian Smith,Alexandria,VA, DorianSmith@aol.com,39,yes,tv show
+864, Aero Wang,Newport News,VA, AeroWang@aol.com,17,yes,tv show
+878, Maeve Duncan,Overland Park,KS, MaeveDuncan@yahoo.com,21,yes,tv show
+961, Liam King,Amarillo,TX, LiamKing@yahoo.com,11,yes,tv show
+972, Fletcher Perez,Lincoln,NE, FletcherPerez@yahoo.com,17,yes,tv show
+981, Amari Evans,Las Cruces,NM, AmariEvans@yahoo.com,53,yes,tv show
+1030, Piper Graham,Des Moines,IA, PiperGraham@hotmail.com,51,yes,tv show
+1052, Gemma Lafleur,New Bedford,MA, GemmaLafleur@hotmail.com,49,yes,tv show
+1079, Robin Griffin,Sandy Springs,GA, RobinGriffin@hotmail.com,26,yes,tv show
+1100, Holden Allen,Lansing,MI, HoldenAllen@hotmail.com,28,yes,tv show
+1124, Stella Peterson,Little Rock,AR, StellaPeterson@hotmail.com,18,No,tv show
+75,Norah King,San Jose,CA,NorahKing@gmail.com,11,no,tik tok
+123, Skye Ryans,Baltimore,MD, SkyeRyans@gmail.com,18,yes,tik tok
+157, Sawyer Sanders,Elgin,IL, SawyerSanders@gmail.com,38,yes,tik tok
+184, Eliza Harbaugh,Burbank,CA, ElizaHarbaugh@gmail.com,34,yes,tik tok
+251, Wren Edwards,Philadelphia,PA, WrenEdwards@gmail.com,10,yes,tik tok
+290, Arlo Allen,Minneapolis,MN, ArloAllen@gmail.com,10,no,tik tok
+317,Greyson Morgan,Toledo,OH,GreysonMorgan@gmail.com,26,no,tik tok
+410,Xavier Walker,Worcester,MA,XavierWalker@gmail.com,14,yes,tik tok
+414, Winter Martin,Los Angeles,CA, WinterMartin@gmail.com,26,yes,tik tok
+442, Piper gunthers,Centennial,CO, Pipergunthers@gmail.com,39,yes,tik tok
+465, Finley Cruz,Aurora,CO, FinleyCruz@gmail.com,25,yes,tik tok
+521, Mabel King,Glendale,AZ, MabelKing@gmail.com,14,yes,tik tok
+550, Milo gunthers,Pueblo,CO, Milogunthers@gmail.com,41,yes,tik tok
+553, Kai Bennett,Syracuse,NY, KaiBennett@gmail.com,50,yes,tik tok
+588,Lukas Thompson,St. Paul,MN,LukasThompson@gmail.com,27,yes,tik tok
+654, Malachi Scott,South Fulton,GA, MalachiScott@gmail.com,29,no,tik tok
+722, Olivia Tomlin,Spokane,WA, OliviaTomlin@gmail.com,48,no,tik tok
+836, Callan Edwards,Paradise,NV, CallanEdwards@aol.com,53,yes,tik tok
+844, Fallon Miller,Knoxville,TN, FallonMiller@aol.com,18,yes,tik tok
+858,Lukas Simmons,Norfolk,VA,LukasSimmons@aol.com,40,yes,tik tok
+875, Lila Perez,Rockford,IL, LilaPerez@yahoo.com,11,yes,tik tok
+934, Ari Miller,El Monte,CA, AriMiller@yahoo.com,46,yes,tik tok
+957, Esme gunderson,Conroe,TX, Esmegunderson@yahoo.com,13,yes,tik tok
+985, Astrid Murray,Seattle,WA, AstridMurray@yahoo.com,9,yes,tik tok
+995, Alexander Reed,Springfield,IL, AlexanderReed@yahoo.com,10,yes,tik tok
+996, Briar King,Rialto,CA, BriarKing@yahoo.com,50,yes,tik tok
+1038, Hudson Morgan,Jackson,MS, HudsonMorgan@hotmail.com,19,yes,tik tok
+1054, Phoenix Griffin,Portland,OR, PhoenixGriffin@hotmail.com,44,yes,tik tok
+1058, Orion Davis,Peoria,IL, OrionDavis@hotmail.com,27,yes,tik tok
+1072, Thomas Lafleur,Mesquite,TX, ThomasLafleur@hotmail.com,44,yes,tik tok
+1116, Jackson Young,Cedar Rapids,IA, JacksonYoung@hotmail.com,47,No,tik tok
+1148, Willow Walker,North Charleston,SC, WillowWalker@hotmail.com,15,No,tik tok
+1154, Charlie Cooper,Simi Valley,CA, CharlieCooper@hotmail.com,45,No,tik tok
+89,Margo Graham,St. Louis,MO,MargoGraham@gmail.com,39,yes,tv show
+223, Daisy Walker,Charlotte,NC, DaisyWalker@gmail.com,22,yes,tv show
+466, Jude gunderson,Tulsa,OK, Judegunderson@gmail.com,41,yes,tv show
+485, Emmett Thomas,Ann Arbor,MI, EmmettThomas@gmail.com,31,yes,tv show
+530, Andrew Brooks,North Las Vegas,NV, AndrewBrooks@gmail.com,16,yes,tv show
+572, Luca Chang,Arlington,TX, LucaChang@gmail.com,11,yes,tv show
+781, Milo Harbaugh,Augusta ,GA, MiloHarbaugh@gmail.com,19,yes,tv show
+877, Hunter Garcia,Miramar,FL, HunterGarcia@yahoo.com,40,yes,tv show
+929, Chloe Harris,Denver,CO, ChloeHarris@yahoo.com,54,yes,tv show
+111, Theo Rodriguez,Wilmington,NC, TheoRodriguez@gmail.com,49,yes,email news blast
+312, Olivia Thompson,Henderson,NV, OliviaThompson@gmail.com,12,no,email news blast
+337,Lukas Mitchell,Brownsville,TX,LukasMitchell@gmail.com,9,yes,email news blast
+376, Oliver Johnson,Santa Rosa,CA, OliverJohnson@gmail.com,14,yes,email news blast
+464,Greyson Robinson,Naperville,IL,GreysonRobinson@gmail.com,34,yes,email news blast
+544, Ophelia Baker,St. George,UT, OpheliaBaker@gmail.com,37,yes,email news blast
+634, Noah Long,Mesquite,TX, NoahLong@gmail.com,29,no,email news blast
+721, Wren Carter,Springfield,IL, WrenCarter@gmail.com,49,no,email news blast
+730,Lukas Cooper,Columbus,GA,LukasCooper@gmail.com,50,no,email news blast
+181, Sage Lee,Seattle,WA, SageLee@gmail.com,23,yes,google search
+266, Ash Walker,Beaumont,TX, AshWalker@gmail.com,12,no,google search
+374, Mabel Chavez,Lynn,MA, MabelChavez@gmail.com,53,yes,google search
+498, Luke Moore,Metairie,LA, LukeMoore@gmail.com,20,yes,google search
+574, Camden Walker,Fullerton,CA, CamdenWalker@gmail.com,49,yes,google search
+856, Olivia Wallace,Tallahassee,FL, OliviaWallace@aol.com,26,yes,google search
+1128, Eva Harris,Inglewood,CA, EvaHarris@hotmail.com,10,No,google search
+1139, Scarlett Lewis,Richmond,VA, ScarlettLewis@hotmail.com,17,No,google search
+7, Cassidy Foster,Greensboro,NC, CassidyFoster@gmail.com,29,yes,instagram
+61, Andrew Park,Fremont,CA, AndrewPark@gmail.com,10,no,instagram
+423, Eloise Jackson,St. Paul,MN, EloiseJackson@gmail.com,25,yes,instagram
+992, Athena Smith,Albany,NY, AthenaSmith@yahoo.com,14,yes,instagram
+1055, Iris Barnes,Houston,TX, IrisBarnes@hotmail.com,47,yes,instagram
+1102, Atticus Parker,Berkeley,CA, AtticusParker@hotmail.com,43,yes,instagram
+262, Willow Reed,Lewisville,TX, WillowReed@gmail.com,54,no,referred by someone
+347,Lukas Moore,Richmond,VA,LukasMoore@gmail.com,35,yes,referred by someone
+543, Brennan Johnson,Midland,TX, BrennanJohnson@gmail.com,28,yes,referred by someone
+1068, Isabella Collins,Charlotte,NC, IsabellaCollins@hotmail.com,43,yes,referred by someone
+620, Thomas Ramirez,Brockton,MA, ThomasRamirez@gmail.com,37,no,tv show
+892, Max Edwards,Scottsdale,AZ, MaxEdwards@yahoo.com,17,yes,tv show
+1142, Owen White,Columbia,MD, OwenWhite@hotmail.com,14,No,tv show
+113, Lincoln Collins,Gresham,OR, LincolnCollins@gmail.com,19,yes,tik tok
+174, Aubrey Baker,Palm Coast,FL, AubreyBaker@gmail.com,14,yes,tik tok
+224, Callum Baker,Palm Coast,FL, CallumBaker@gmail.com,16,yes,tik tok
+346, Winter Moore,High Point,NC, WinterMoore@gmail.com,29,yes,tik tok
+396, Marigold Chang,Eugene,OR, MarigoldChang@gmail.com,13,yes,tik tok
+918, Harlan Turner,Jersey City,NJ, HarlanTurner@yahoo.com,28,yes,tik tok
+976, Finn Rodriguez,Las Cruces,NM, FinnRodriguez@yahoo.com,33,yes,tik tok
+1018, Cillian Lewis,Lowell,MA, CillianLewis@hotmail.com,19,yes,tik tok
+1135, Ivy Smith,Spokane,WA, IvySmith@hotmail.com,39,No,tik tok
+1137, Camden Harris,Seattle,WA, CamdenHarris@hotmail.com,53,No,tik tok
+441, Owen Walker,McAllen,TX, OwenWalker@gmail.com,14,yes,tv show
+435, Sienna Wallace,El Monte,CA, SiennaWallace@gmail.com,46,yes,email news blast
+700, Oliver Green,San Diego,CA, OliverGreen@gmail.com,28,no,email news blast
+949, Caleb Green,Columbia,MD, CalebGreen@yahoo.com,11,yes,email news blast
+1090, Nova Harris,Rialto,CA, NovaHarris@hotmail.com,13,yes,email news blast
+285,Margo Long,Birmingham,AL,MargoLong@gmail.com,16,no,google search
+146, Mila Taylor,Portland,OR, MilaTaylor@gmail.com,10,yes,instagram
+296, Logan Thompson,Huntsville,AL, LoganThompson@gmail.com,34,no,instagram
+630, Mason Wilson,Lubbock,TX, MasonWilson@gmail.com,12,no,referred by someone
+54, Eliana Carter,Sterling Heights,MI, ElianaCarter@gmail.com,35,no,tv show
+645, Gwendolyn Kelly,Boston,MA, GwendolynKelly@gmail.com,13,no,tv show
+150, Vivian Williams,Peoria,IL, VivianWilliams@gmail.com,50,yes,tik tok
+421, Alastair Wilson,Chesapeake,VA, AlastairWilson@gmail.com,51,yes,tik tok
+604, Ethan Graham,Long Beach,CA, EthanGraham@gmail.com,40,no,tik tok
+616, Lachlan Kim,Newport News,VA, LachlanKim@gmail.com,39,no,tik tok
+96, Alice Griffin,Provo,UT, AliceGriffin@gmail.com,28,no,tv show
+246, Gavin Williams,Clovis,CA, GavinWilliams@gmail.com,35,yes,tv show
+316, Miles Jackson,Charlotte,NC, MilesJackson@gmail.com,42,no,tv show
+334, Arden Harbaugh,Dallas,TX, ArdenHarbaugh@gmail.com,26,yes,tv show
+386, Jade Wilson,League City,TX, JadeWilson@gmail.com,26,yes,tv show
+484, Miles gunderson,League City,TX, Milesgunderson@gmail.com,15,yes,tv show
+525, Clover Long,Richmond,VA, CloverLong@gmail.com,17,yes,tv show
+557, Vivienne Cruz,Albuquerque,NM, VivienneCruz@gmail.com,19,yes,tv show
+603, Teagan guthrie,Nashville ,TN, Teaganguthrie@gmail.com,49,no,tv show
+666, Zephyr Clark,Vacaville,CA, ZephyrClark@gmail.com,36,no,tv show
+49, Dominic Nelson,Centennial,CO, DominicNelson@gmail.com,47,no,email news blast
+126, Akira Anderson,Anchorage,AK, AkiraAnderson@gmail.com,38,yes,email news blast
+192, Ash White,Garden Grove,CA, AshWhite@gmail.com,41,yes,email news blast
+529, Jasper Johnson,Macon ,GA, JasperJohnson@gmail.com,46,yes,email news blast
+585, Willow Cruz,Durham,NC, WillowCruz@gmail.com,21,yes,email news blast
+648, Lydia King,Rochester,NY, LydiaKing@gmail.com,53,no,email news blast
+680, Amari Scott,Pueblo,CO, AmariScott@gmail.com,26,no,email news blast
+724, Lyra Scott,Columbia,MD, LyraScott@gmail.com,37,no,email news blast
+889, Elliott Robinson,West Covina,CA, ElliottRobinson@yahoo.com,54,yes,email news blast
+915, Grayson Day,Modesto,CA, GraysonDay@yahoo.com,48,yes,email news blast
+1013, Rhys Collins,West Jordan,UT, RhysCollins@yahoo.com,40,yes,email news blast
+84, James Tomlin,Ontario,CA, JamesTomlin@gmail.com,20,yes,google search
+179, Celeste Harris,Green Bay,WI, CelesteHarris@gmail.com,26,yes,google search
+236, Lily Mitchell,Palmdale,CA, LilyMitchell@gmail.com,15,yes,google search
+248, Felix Murray,Omaha,NE, FelixMurray@gmail.com,40,yes,google search
+255, Skye Cruz,San Diego,CA, SkyeCruz@gmail.com,20,yes,google search
+311, Willow Wang,Broken Arrow,OK, WillowWang@gmail.com,28,no,google search
+429, Caspian Nelson,Tallahassee,FL, CaspianNelson@gmail.com,30,yes,google search
+767, Delaney Clark,Lakeland,FL, DelaneyClark@gmail.com,10,no,google search
+778, Naomi Campbell,Warren,MI, NaomiCampbell@gmail.com,22,yes,google search
+1140, Poppy Walker,Fort Lauderdale,FL, PoppyWalker@hotmail.com,51,No,google search
+26, Ellis Morgan,Manchester,NH, EllisMorgan@gmail.com,28,no,instagram
+57, Luca Lee,Riverside,CA, LucaLee@gmail.com,38,no,instagram
+128, Malachi King,Evansville,IN, MalachiKing@gmail.com,47,yes,instagram
+403, Blair Bailey,Odessa,TX, BlairBailey@gmail.com,43,yes,instagram
+415, Amelia Wang,Bellevue,WA, AmeliaWang@gmail.com,26,yes,instagram
+524, Daisy Wallace,Fremont,CA, DaisyWallace@gmail.com,38,yes,instagram
+578, Ryan Day,Winston-Salem,NC, RyanDay@gmail.com,29,yes,instagram
+683, Lincoln Griffin,Edison,NJ, LincolnGriffin@gmail.com,33,no,instagram
+743, Julian Brooks,West Valley City,UT, JulianBrooks@gmail.com,40,no,instagram
+780, Harlow Jenkins,Yuma,AZ, HarlowJenkins@gmail.com,38,yes,instagram
+786, Noah Day,Baltimore,MD, NoahDay@gmail.com,10,yes,instagram
+1059, Hudson Scott,Glendale,AZ, HudsonScott@hotmail.com,14,yes,instagram
+1067, Orion Parker,Carmel,IN, OrionParker@hotmail.com,38,yes,instagram
+348, Hudson Ramirez,Grand Prairie,TX, HudsonRamirez@gmail.com,53,yes,referred by someone
+411,Sofia Chang,Buckeye,AZ,SofiaChang@gmail.com,30,yes,referred by someone
+480,Zander Thompson,Quincy,MA,ZanderThompson@gmail.com,31,yes,referred by someone
+490, Felix Roberts,Hollywood,FL, FelixRoberts@gmail.com,18,yes,referred by someone
+617, Finn Kelly,New Bedford,MA, FinnKelly@gmail.com,30,no,referred by someone
+762, Max Smith,Cambridge,MA, MaxSmith@gmail.com,24,no,referred by someone
+886, Elias Nichols,Huntsville,AL, EliasNichols@yahoo.com,18,yes,referred by someone
+974, James Walker,Beaumont,TX, JamesWalker@yahoo.com,46,yes,referred by someone
+1021, Holden Won,Washington,DC, HoldenWon@hotmail.com,44,yes,referred by someone
+1050, Lila Bailey,West Jordan,UT, LilaBailey@hotmail.com,22,yes,referred by someone
+73, Charlie Duncan,Inglewood,CA, CharlieDuncan@gmail.com,18,no,tv show
+79, Evangeline ichiro,Springfield,IL, Evangelineichiro@gmail.com,26,no,tv show
+330, Teagan ohtani,Brockton,MA, Teaganohtani@gmail.com,45,yes,tv show
+443, Teagan Chang,Lakeland,FL, TeaganChang@gmail.com,27,yes,tv show
+1086, Adalyn Williams,Fayetteville,AR, AdalynWilliams@hotmail.com,49,yes,tv show
+16, Arlo Wilson,West Palm Beach,FL, ArloWilson@gmail.com,12,no,tik tok
+619, Kai Long,Wichita,KS, KaiLong@gmail.com,38,no,tik tok
+734, Flynn Allen,Fargo,ND, FlynnAllen@gmail.com,30,no,tik tok
+742, Iris Martin,Arvada,CO, IrisMartin@gmail.com,23,no,tik tok
+814, Wren King,Seattle,WA, WrenKing@gmail.com,30,yes,tik tok
+816, Lavender Baker,Charleston,SC, LavenderBaker@gmail.com,27,yes,tik tok
+959, Olivia Garcia,Louisville ,KY, OliviaGarcia@yahoo.com,22,yes,tik tok
+1044, Luca Nichols,Stamford,CT, LucaNichols@hotmail.com,24,yes,tik tok
+1051, Abigail Simmons,St. Louis,MO, AbigailSimmons@hotmail.com,51,yes,tik tok
+1119, Soren Morgan,Burbank,CA, SorenMorgan@hotmail.com,31,No,tik tok
+1165, Maisie Murray,Rochester,NY, MaisieMurray@hotmail.com,38,No,tik tok
+460, August Smith,Pueblo,CO, AugustSmith@gmail.com,39,yes,tv show
+830, Shiloh Wallace,Costa Mesa,CA, ShilohWallace@gmail.com,35,yes,tv show
+576, Caroline Morgan,Tyler,TX, CarolineMorgan@gmail.com,27,yes,email news blast
+635, Thomas ichiro,Highlands Ranch,CO, Thomasichiro@gmail.com,49,no,email news blast
+12, Jasper guthrie,Baltimore,MD, Jasperguthrie@gmail.com,38,no,google search
+158, Ari Jenkins,Phoenix,AZ, AriJenkins@gmail.com,11,yes,google search
+212, Felix Tomlin,Warren,MI, FelixTomlin@gmail.com,15,yes,instagram
+137, Otto Simmons,Rio Rancho,NM, OttoSimmons@gmail.com,15,yes,referred by someone
+303, Cameron Evans,Palm Bay,FL, CameronEvans@gmail.com,34,no,referred by someone
+225, August Hill,Des Moines,IA, AugustHill@gmail.com,17,yes,tik tok
+594, Wyatt Scott,Grand Rapids,MI, WyattScott@gmail.com,9,no,tik tok
+821, Anastasia Harris,Fullerton,CA, AnastasiaHarris@gmail.com,33,yes,tik tok
+1087, Aidan Scott,Montgomery,AL, AidanScott@hotmail.com,27,yes,tik tok
+1092, Eloise ohtani,Sterling Heights,MI, Eloiseohtani@hotmail.com,13,yes,tik tok
+104, Sienna Cooper,Murfreesboro,TN, SiennaCooper@gmail.com,19,no,tv show
+201, Max Kelly,Lynn,MA, MaxKelly@gmail.com,53,yes,tv show
+1048, Luca Long,Chandler,AZ, LucaLong@hotmail.com,11,yes,tv show
+176, Jonah Taylor,Simi Valley,CA, JonahTaylor@gmail.com,22,yes,email news blast
+655, Vivienne Murray,Pueblo,CO, VivienneMurray@gmail.com,22,no,email news blast
+783, Luca Martin,Jurupa Valley,CA, LucaMartin@gmail.com,21,yes,email news blast
+161, Sage Allen,Concord,CA, SageAllen@gmail.com,51,yes,google search
+1008, Arthur Park,Columbus,GA, ArthurPark@yahoo.com,10,yes,google search
+58, Oakley Thompson,Henderson,NV, OakleyThompson@gmail.com,31,no,instagram
+597, Athena Rodriguez,Laredo,TX, AthenaRodriguez@gmail.com,39,no,instagram
+643, Dante Bailey,Los Angeles,CA, DanteBailey@gmail.com,13,no,instagram
+950, Elijah gunnersan,Oxnard,CA, Elijahgunnersan@yahoo.com,25,yes,instagram
+1160, Willow Wallace,Mesquite,TX, WillowWallace@hotmail.com,38,No,instagram
+271, Ezra Cruz,Lansing,MI, EzraCruz@gmail.com,38,no,referred by someone
+867, Theo Park,Hialeah,FL, TheoPark@yahoo.com,49,yes,referred by someone
+253, Asher Chang,Laredo,TX, AsherChang@gmail.com,19,yes,tv show
+353, Matthew Scott,Norman,OK, MatthewScott@gmail.com,25,yes,tv show
+354, Bellamy Robinson,Milwaukee,WI, BellamyRobinson@gmail.com,36,yes,tv show
+1009, James guthrie,Charleston,SC, Jamesguthrie@yahoo.com,51,yes,tv show
+1118, Charlie Nelson,Pueblo,CO, CharlieNelson@hotmail.com,39,No,tv show
+136, Jude Collins,Dayton,OH, JudeCollins@gmail.com,44,yes,tik tok
+884, Wren Taylor,Round Rock,TX, WrenTaylor@yahoo.com,29,yes,tik tok
+1146, Gemma Collins,Albany,NY, GemmaCollins@hotmail.com,38,No,email news blast
+1138, Elodie Lewis,Miami Gardens ,FL, ElodieLewis@hotmail.com,48,No,tv show
+967, Tate Ramirez,Scottsdale,AZ, TateRamirez@yahoo.com,35,yes,tik tok
+314, Riley Walker,Oakland,CA, RileyWalker@gmail.com,20,no,tv show
+449,Xavier Hernandez,Mesquite,TX,XavierHernandez@gmail.com,47,yes,tv show
+17, Cameron Campbell,Frisco,TX, CameronCampbell@gmail.com,45,no,email news blast
+77, Adam Wilson,Philadelphia,PA, AdamWilson@gmail.com,18,no,email news blast
+105, Beau Taylor,Colorado Springs,CO, BeauTaylor@gmail.com,27,no,email news blast
+1156, Avalon Miller,Antioch,CA, AvalonMiller@hotmail.com,51,No,email news blast
+106, Samuel Harris,Fontana,CA, SamuelHarris@gmail.com,40,no,google search
+203, Logan Garcia,Inglewood,CA, LoganGarcia@gmail.com,53,yes,google search
+287, Elsie Nelson,Lehigh Acres,FL, ElsieNelson@gmail.com,23,no,google search
+295, Wren Martin,Columbia,MD, WrenMartin@gmail.com,51,no,google search
+409, Elsie Campbell,Rancho Cucamonga,CA, ElsieCampbell@gmail.com,44,yes,google search
+451, Julian Won,Aurora,CO, JulianWon@gmail.com,17,yes,google search
+540, Rowan Murphy,Evansville,IN, RowanMurphy@gmail.com,31,yes,google search
+647, Ellis Kim,Renton,WA, EllisKim@gmail.com,10,no,google search
+15, Arlo Smith,North Charleston,SC, ArloSmith@gmail.com,24,no,instagram
+297, Camden Kelly,Lynn,MA, CamdenKelly@gmail.com,38,no,instagram
+433, Amelia Chung,Albany,NY, AmeliaChung@gmail.com,45,yes,instagram
+622, Camille Barnes,Springfield,IL, CamilleBarnes@gmail.com,17,no,instagram
+677, Julian Peterson,West Jordan,UT, JulianPeterson@gmail.com,30,no,instagram
+790, Milo Taylor,Jacksonville,FL, MiloTaylor@gmail.com,51,yes,instagram
+876, Dakota Won,Dearborn,MI, DakotaWon@yahoo.com,13,yes,instagram
+33, Clover Ramirez,Laredo,TX, CloverRamirez@gmail.com,43,no,referred by someone
+189, Celeste guthrie,Boston,MA, Celesteguthrie@gmail.com,42,yes,referred by someone
+230, Oakley Kim,Miami Gardens ,FL, OakleyKim@gmail.com,41,yes,referred by someone
+905, Orion Chavez,Bellevue,WA, OrionChavez@yahoo.com,47,yes,referred by someone
+1094, Maya Rodriguez,Los Angeles,CA, MayaRodriguez@hotmail.com,24,yes,referred by someone
+169, Sasha Lewis,Centennial,CO, SashaLewis@gmail.com,14,yes,tv show
+182, Opal Roberts,Topeka,KS, OpalRoberts@gmail.com,40,yes,tv show
+450, Sebastian Vrabel,Huntsville,AL, SebastianVrabel@gmail.com,35,yes,tv show
+584,Margo Reed,Bellevue,WA,MargoReed@gmail.com,15,yes,special event
+641, Eli ichiro,Hayward,CA, Eliichiro@gmail.com,43,no,special event
+681, Ophelia Mitchell,Gainesville,FL, OpheliaMitchell@gmail.com,45,no,special event
+717, Sebastian Sanders,Kansas City,KS, SebastianSanders@gmail.com,23,no,special event
+209, Felix Kim,North Las Vegas,NV, FelixKim@gmail.com,24,yes,tik tok
+495, Alaric Harbaugh,Edison,NJ, AlaricHarbaugh@gmail.com,28,yes,tik tok
+663, Imogen Nichols,Fayetteville,AR, ImogenNichols@gmail.com,48,no,tik tok
+746, Matthew Baker,Elizabeth,NJ, MatthewBaker@gmail.com,19,no,tik tok
+817, Holden Griffin,St. Louis,MO, HoldenGriffin@gmail.com,19,yes,tik tok
+983, Brennan Morgan,Brownsville,TX, BrennanMorgan@yahoo.com,26,yes,tik tok
+1113, Evander Williams,Amarillo,TX, EvanderWilliams@hotmail.com,30,No,tik tok
+528, Esme Scott,Aurora,CO, EsmeScott@gmail.com,40,yes,tv show
+602, Sophia Walker,Tyler,TX, SophiaWalker@gmail.com,36,no,tv show
+801, Adelaide Wallace,Jacksonville,FL, AdelaideWallace@gmail.com,41,yes,tv show
+145, Mason Ryans,Oklahoma City,OK, MasonRyans@gmail.com,15,yes,email news blast
+357, Ava Wang,Philadelphia,PA, AvaWang@gmail.com,35,yes,email news blast
+358, Grace Bennett,Rochester,NY, GraceBennett@gmail.com,53,yes,email news blast
+753, Indigo Allen,Surprise,AZ, IndigoAllen@gmail.com,53,no,email news blast
+805, Echo Miller,Tuscaloosa,AL, EchoMiller@gmail.com,41,yes,email news blast
+954, James Sanders,Miramar,FL, JamesSanders@yahoo.com,26,yes,email news blast
+1104,Juliette Clark,Naperville,IL,JulietteClark@hotmail.com,43,yes,email news blast
+1122, Sasha Carter,Clovis,CA, SashaCarter@hotmail.com,44,No,google search
+1136, Eden King,Macon ,GA, EdenKing@hotmail.com,10,No,google search
+944, Noah Parker,Oakland,CA, NoahParker@yahoo.com,42,yes,referred by someone
+299, Adair Miller,St. Petersburg,FL, AdairMiller@gmail.com,54,no,special event
+359, Sabrina Smith,Sandy Springs,GA, SabrinaSmith@gmail.com,32,yes,special event
+1103, Lucas Murphy,San Francisco,CA, LucasMurphy@hotmail.com,18,yes,special event
+1107, Atticus Roberts,Pompano Beach,FL, AtticusRoberts@hotmail.com,28,No,special event
+1152, Luke Perez,Sacramento,CA, LukePerez@hotmail.com,26,No,special event
+333,Arya King,McAllen,TX,AryaKing@gmail.com,27,yes,tik tok
+364,Bo Chavez,St. Louis,MO,BoChavez@gmail.com,28,yes,tik tok
+453, Penelope Nichols,San Tan Valley,AZ, PenelopeNichols@gmail.com,17,yes,tik tok
+470, James ohtani,Oceanside,CA, Jamesohtani@gmail.com,43,yes,tik tok
+752,Xavier Campbell,Rockford,IL,XavierCampbell@gmail.com,19,no,tik tok
+788,Greyson Kim,Seattle,WA,GreysonKim@gmail.com,43,yes,tik tok
+913, Matilda Phillips,Greeley,CO, MatildaPhillips@yahoo.com,14,yes,tik tok
+440, Owen Nelson,Joliet,IL, OwenNelson@gmail.com,18,yes,tv show
+476,Jaxon gunnersan,Stamford,CT,Jaxongunnersan@gmail.com,40,yes,tv show
+1053, Briar Harbaugh,Cary,NC, BriarHarbaugh@hotmail.com,31,yes,tv show
+117, Bennett Lee,Fargo,ND, BennettLee@gmail.com,9,yes,email news blast
+701, Cameron guthrie,Salinas,CA, Cameronguthrie@gmail.com,41,no,email news blast
+962, Max Harbaugh,Boston,MA, MaxHarbaugh@yahoo.com,24,yes,email news blast
+1010, Daisy Reed,Spokane Valley,WA, DaisyReed@yahoo.com,40,yes,google search
+1130, Ember Graham,Hollywood,FL, EmberGraham@hotmail.com,22,No,google search
+408, Margot Taylor,Cedar Rapids,IA, MargotTaylor@gmail.com,29,yes,instagram
+570, Forrest Sanchez,Centennial,CO, ForrestSanchez@gmail.com,27,yes,instagram
+53, Marley Cruz,Pembroke Pines,FL, MarleyCruz@gmail.com,29,no,referred by someone
+455, River Perez,Hollywood,FL, RiverPerez@gmail.com,15,yes,referred by someone
+860, Layla Smith,Tempe,AZ, LaylaSmith@aol.com,22,yes,referred by someone
+898, Evelyn Jenkins,El Monte,CA, EvelynJenkins@yahoo.com,16,yes,referred by someone
+1114, Lila Wallace,Inglewood,CA, LilaWallace@hotmail.com,47,No,referred by someone
+657, Rowan Jackson,Syracuse,NY, RowanJackson@gmail.com,21,no,special event
+916, Cillian Reed,Toledo,OH, CillianReed@yahoo.com,34,yes,special event
+83, Elliot Mitchell,Coral Springs,FL, ElliotMitchell@gmail.com,24,yes,tik tok
+237, Gwendolyn Kim,West Covina,CA, GwendolynKim@gmail.com,53,yes,tik tok
+672, Elizabeth Barnes,Jackson,MS, ElizabethBarnes@gmail.com,54,no,tik tok
+260, Arden Carter,Cleveland,OH, ArdenCarter@gmail.com,50,no,tv show
+369, Shiloh Campbell,Arlington,TX, ShilohCampbell@gmail.com,44,yes,tv show
+882, Evander Garcia,Los Angeles,CA, EvanderGarcia@yahoo.com,34,yes,tv show
+1096, Piper Lafleur,Des Moines,IA, PiperLafleur@hotmail.com,39,yes,tv show
+306, Harlan Davis,Tulsa,OK, HarlanDavis@gmail.com,16,no,email news blast
+820, Isaac White,Greeley,CO, IsaacWhite@gmail.com,21,yes,email news blast
+270, Dante gunderson,San Tan Valley,AZ, Dantegunderson@gmail.com,12,no,referred by someone
+547, Sophia Williams,Grand Prairie,TX, SophiaWilliams@gmail.com,35,yes,special event
+1039, Brody Bailey,Lafayette,LA, BrodyBailey@hotmail.com,18,yes,special event
+239, Valerie Baker,Irvine,CA, ValerieBaker@gmail.com,20,yes,tv show
+907, Gabriel Kim,Carrollton,TX, GabrielKim@yahoo.com,13,yes,tv show
+1098, Valerie Barnes,Moreno Valley,CA, ValerieBarnes@hotmail.com,35,yes,tv show
+487, Gavin Vrabel,Colorado Springs,CO, GavinVrabel@gmail.com,31,yes,email news blast
+555,Elliott Long,Palm Bay,FL,ElliottLong@gmail.com,36,yes,email news blast
+688, Jackson Harbaugh,Lancaster,CA, JacksonHarbaugh@gmail.com,31,no,email news blast
+28, Callahan Graham,Fort Worth,TX, CallahanGraham@gmail.com,10,no,google search
+545,Lukas Miller,Greensboro,NC,LukasMiller@gmail.com,53,yes,google search
+229, Caroline Roberts,Kansas City,KS, CarolineRoberts@gmail.com,39,yes,instagram
+365, Rory Morgan,Ann Arbor,MI, RoryMorgan@gmail.com,41,yes,instagram
+691, Aspen Won,Lafayette,LA, AspenWon@gmail.com,11,no,instagram
+947, Aubrey Wang,Colorado Springs,CO, AubreyWang@yahoo.com,29,yes,instagram
+1000,Norah Tomlin,Oakland,CA,NorahTomlin@yahoo.com,18,yes,instagram
+185, Hudson Smith,Naperville,IL, HudsonSmith@gmail.com,20,yes,referred by someone
+1035, Max Kim,Riverview,FL, MaxKim@hotmail.com,29,yes,referred by someone
+1063, Luke Chung,Everett,WA, LukeChung@hotmail.com,12,yes,referred by someone
+499, Oliver Edwards,Oakland,CA, OliverEdwards@gmail.com,9,yes,special event
+769, Morgan Clark,Quincy,MA, MorganClark@gmail.com,10,no,special event
+298, Aubrey Park,Frisco,TX, AubreyPark@gmail.com,9,no,tik tok
+698, Carter Campbell,Kent,WA, CarterCampbell@gmail.com,43,no,tik tok
+745, Everett gunnersan,Ontario,CA, Everettgunnersan@gmail.com,18,no,tik tok
+690, Lachlan ichiro,Dallas,TX, Lachlanichiro@gmail.com,51,no,tv show
+838, Harlan Nelson,Concord,CA, HarlanNelson@aol.com,12,yes,tv show
+894, Lydia Wallace,Clovis,CA, LydiaWallace@yahoo.com,39,yes,tv show
+1159, Lincoln Lee,Pueblo,CO, LincolnLee@hotmail.com,23,No,tv show
+567, Dahlia Roberts,Fort Collins,CO, DahliaRoberts@gmail.com,44,yes,email news blast
+999, Luca Ramirez,Davenport,IA, LucaRamirez@yahoo.com,12,yes,email news blast
+1015,Aiden Barnes,Stockton,CA,AidenBarnes@yahoo.com,16,yes,email news blast
+1133,Lukas Stewart,Jersey City,NJ,LukasStewart@hotmail.com,27,No,email news blast
+468, Silas Lee,Toledo,OH, SilasLee@gmail.com,37,yes,google search
+482, Chloe Walker,Cincinnati,OH, ChloeWalker@gmail.com,44,yes,google search
+873, Axel Wilson,Davie,FL, AxelWilson@yahoo.com,51,yes,google search
+964, Brody Long,Abilene,TX, BrodyLong@yahoo.com,22,yes,google search
+430,Alistair guthrie,Centennial,CO,Alistairguthrie@gmail.com,13,yes,instagram
+531, Cillian Rodriguez,Wichita,KS, CillianRodriguez@gmail.com,32,yes,instagram
+946, Dominic Turner,Spokane,WA, DominicTurner@yahoo.com,33,yes,instagram
+559, Lila Mitchell,San Jose,CA, LilaMitchell@gmail.com,32,yes,referred by someone
+626, Blake Long,Huntington Beach,CA, BlakeLong@gmail.com,20,no,referred by someone
+695,Greyson Phillips,Salem,OR,GreysonPhillips@gmail.com,39,no,referred by someone
+937, Luca Moore,San Diego,CA, LucaMoore@yahoo.com,22,yes,referred by someone
+968, Sienna Perez,Lansing,MI, SiennaPerez@yahoo.com,24,yes,referred by someone
+1121, Clover Martin,Sparks,NV, CloverMartin@hotmail.com,51,No,referred by someone
+132, Parker Robinson,New Orleans,LA, ParkerRobinson@gmail.com,16,yes,special event
+633, Clara Miller,Pasadena,CA, ClaraMiller@gmail.com,9,no,special event
+636, Cillian Jackson,Pueblo,CO, CillianJackson@gmail.com,17,no,special event
+756, Aria Long,McKinney,TX, AriaLong@gmail.com,44,no,special event
+928, Stella Barnes,Akron,OH, StellaBarnes@yahoo.com,39,yes,special event
+202, Adeline King,Murrieta,CA, AdelineKing@gmail.com,24,yes,tik tok
+763, Ari Graham,Nampa,ID, AriGraham@gmail.com,32,no,tik tok
+1056, Nova Thomas,Davie,FL, NovaThomas@hotmail.com,41,yes,tik tok
+1080, Miles ohtani,New Haven,CT, Milesohtani@hotmail.com,16,yes,tik tok
+381, Adrian Martin,Naperville,IL, AdrianMartin@gmail.com,22,yes,tv show
+729, Juniper Lee,Joliet,IL, JuniperLee@gmail.com,16,no,tv show
+977, Logan Cooper,Davenport,IA, LoganCooper@yahoo.com,10,yes,tv show
+101, Silas gunthers,Baton Rouge,LA, Silasgunthers@gmail.com,8,no,google search
+208, Piper Cooper,Salem,OR, PiperCooper@gmail.com,8,yes,google search
+575, Declan Barnes,Savannah,GA, DeclanBarnes@gmail.com,45,yes,google search
+824, Eloise Chavez,Fargo,ND, EloiseChavez@gmail.com,14,yes,instagram
+1161, Luke King,Hialeah,FL, LukeKing@hotmail.com,36,No,instagram
+31, Camille Baker,High Point,NC, CamilleBaker@gmail.com,10,no,referred by someone
+242, Sebastian Nichols,Sioux Falls,SD, SebastianNichols@gmail.com,12,yes,referred by someone
+55, Thomas Young,Vancouver,WA, ThomasYoung@gmail.com,40,no,special event
+63, Sienna Evans,Nashville ,TN, SiennaEvans@gmail.com,42,no,special event
+798, Callan Vrabel,Phoenix,AZ, CallanVrabel@gmail.com,27,yes,special event
+142, Hugo gunthers,Rockford,IL, Hugogunthers@gmail.com,15,yes,tik tok
+500, Cillian Cruz,Berkeley,CA, CillianCruz@gmail.com,8,yes,tik tok
+933, Liam Wallace,Columbia,MD, LiamWallace@yahoo.com,44,yes,tik tok
+39, Clove Cruz,Laredo,TX, CloveCruz@gmail.com,19,no,tv show
+1111, Amelia Perez,San Bernardino,CA, AmeliaPerez@hotmail.com,14,No,tv show
+42, Jude Tang,Hesperia,CA, JudeTang@gmail.com,45,no,email news blast
+980, Alaric Kim,Round Rock,TX, AlaricKim@yahoo.com,53,yes,email news blast
+1164, Aspen Reed,Burbank,CA, AspenReed@hotmail.com,24,No,email news blast
+164, Indigo Kim,Tucson,AZ, IndigoKim@gmail.com,50,yes,google search
+235, Fletcher Day,North Charleston,SC, FletcherDay@gmail.com,21,yes,google search
+826, Phoenix Nelson,Concord,CA, PhoenixNelson@gmail.com,11,yes,google search
+405, Julian Williams,Pittsburgh,PA, JulianWilliams@gmail.com,45,yes,instagram
+513, Brody Griffin,Provo,UT, BrodyGriffin@gmail.com,45,yes,instagram
+740, Nathaniel Barnes,Lancaster,CA, NathanielBarnes@gmail.com,31,no,instagram
+919, Luna Turner,Hialeah,FL, LunaTurner@yahoo.com,15,yes,instagram
+1006, Silas Taylor,Ontario,CA, SilasTaylor@yahoo.com,23,yes,instagram
+1076,Jaxon Foster,Boise City,ID,JaxonFoster@hotmail.com,33,yes,instagram
+30, Eli Long,Fairfield,CA, EliLong@gmail.com,10,no,referred by someone
+196, Alexander Harris,Fort Wayne,IN, AlexanderHarris@gmail.com,19,yes,referred by someone
+624, Aspen Chung,Temecula,CA, AspenChung@gmail.com,25,no,referred by someone
+893,Killian Carter,Midland,TX,KillianCarter@yahoo.com,11,yes,referred by someone
+1005, Ryan gunnersan,Paradise,NV, Ryangunnersan@yahoo.com,34,yes,referred by someone
+71, Charlotte Sanders,Elizabeth,NJ, CharlotteSanders@gmail.com,12,no,special event
+138, Olivia Collins,San Buenaventura ,CA, OliviaCollins@gmail.com,47,yes,special event
+282, Hugo Barnes,Albany,NY, HugoBarnes@gmail.com,24,no,special event
+335, Beau Won,Santa Rosa,CA, BeauWon@gmail.com,8,yes,special event
+355, Logan Murray,Warren,MI, LoganMurray@gmail.com,21,yes,special event
+760, Addison Harbaugh,Fontana,CA, AddisonHarbaugh@gmail.com,26,no,special event
+986, Jude guthrie,Baton Rouge,LA, Judeguthrie@yahoo.com,27,yes,special event
+1070, Maisie Evans,Huntington Beach,CA, MaisieEvans@hotmail.com,11,yes,special event
+446, Chloe Garcia,San Jose,CA, ChloeGarcia@gmail.com,49,yes,tik tok
+777, Archer Bennett,Edison,NJ, ArcherBennett@gmail.com,40,yes,tik tok
+840,Juliette gunderson,West Jordan,UT,Juliettegunderson@aol.com,45,yes,tik tok
+508, Ezra Morgan,South Bend,IN, EzraMorgan@gmail.com,46,yes,tv show
+307, Liam Phillips,Newport News,VA, LiamPhillips@gmail.com,50,no,email news blast
+301, James Kelly,Yonkers,NY, JamesKelly@gmail.com,11,no,google search
+711, River Chung,Oceanside,CA, RiverChung@gmail.com,39,no,instagram
+86, Ronan Graham,Provo,UT, RonanGraham@gmail.com,36,yes,special event
+732, Ellis Duncan,McAllen,TX, EllisDuncan@gmail.com,37,no,tv show
+1166, Eleanor Reed,Downey,CA, EleanorReed@hotmail.com,16,No,tv show
+82, Anastasia Chung,Los Angeles,CA, AnastasiaChung@gmail.com,46,no,email news blast
+109, Miles Moore,Sunnyvale,CA, MilesMoore@gmail.com,39,no,email news blast
+121, Hunter Won,Inglewood,CA, HunterWon@gmail.com,23,yes,email news blast
+247, Bellamy Clark,Des Moines,IA, BellamyClark@gmail.com,29,yes,email news blast
+774, Theodore Duncan,Las Cruces,NM, TheodoreDuncan@gmail.com,24,no,email news blast
+533, Clementine Perez,Sugar Land,TX, ClementinePerez@gmail.com,33,yes,google search
+93, Malachi Lee,Mesquite,TX, MalachiLee@gmail.com,39,no,instagram
+828, Luke Campbell,Davie,FL, LukeCampbell@gmail.com,53,yes,instagram
+112, Daniel gunthers,Berkeley,CA, Danielgunthers@gmail.com,36,yes,referred by someone
+210, Harrison Miller,Athens ,GA, HarrisonMiller@gmail.com,32,yes,referred by someone
+315, Willow Morgan,Waterbury,CT, WillowMorgan@gmail.com,48,no,referred by someone
+710, Sage Hill,Provo,UT, SageHill@gmail.com,47,no,referred by someone
+1099, Charlie Brooks,Burbank,CA, CharlieBrooks@hotmail.com,39,yes,referred by someone
+370, Rowan guthrie,Concord,CA, Rowanguthrie@gmail.com,27,yes,tik tok
+548, Avery Peterson,Detroit,MI, AveryPeterson@gmail.com,36,yes,tik tok
+808, Oakley Allen,Mesquite,TX, OakleyAllen@gmail.com,49,yes,tik tok
+133, Malachi Chang,Springfield,IL, MalachiChang@gmail.com,25,yes,tv show
+336, Raine Taylor,Hampton,VA, RaineTaylor@gmail.com,53,yes,tv show
+477, Isla Collins,Akron,OH, IslaCollins@gmail.com,27,yes,tv show
+454, Everett Peterson,Philadelphia,PA, EverettPeterson@gmail.com,18,yes,email news blast
+903, Aero Murray,Rio Rancho,NM, AeroMurray@yahoo.com,15,yes,special event
+982, Esme Wang,South Fulton,GA, EsmeWang@yahoo.com,47,yes,special event
+1012, Forrest Duncan,Burbank,CA, ForrestDuncan@yahoo.com,45,yes,special event
+447, Aspen Robinson,League City,TX, AspenRobinson@gmail.com,18,yes,special event
+302, Lucien Kelly,Lee's Summit,MO, LucienKelly@gmail.com,35,no,tv show
+391, Charlotte Reed,Olathe,KS, CharlotteReed@gmail.com,43,yes,tv show
+580, Landon gunthers,North Las Vegas,NV, Landongunthers@gmail.com,35,yes,tv show
+587, Eden Kim,Denver,CO, EdenKim@gmail.com,19,yes,tv show
+837, Jade Barnes,St. Louis,MO, JadeBarnes@aol.com,53,yes,tv show
+960, Holden Roberts,Palm Coast,FL, HoldenRoberts@yahoo.com,21,yes,tv show
+288, Briar Parker,Chandler,AZ, BriarParker@gmail.com,26,no,email news blast
+420, Avalon Won,Edison,NJ, AvalonWon@gmail.com,42,yes,email news blast
+702, Julian Campbell,Renton,WA, JulianCampbell@gmail.com,37,no,email news blast
+834, Rose Campbell,El Cajon,CA, RoseCampbell@aol.com,24,yes,email news blast
+1117, Willow Thomas,Madison,WI, WillowThomas@hotmail.com,33,No,email news blast
+1153, Mila Davis,Mesa,AZ, MilaDavis@hotmail.com,20,No,email news blast
+198, Oscar Hernandez,Downey,CA, OscarHernandez@gmail.com,31,yes,google search
+323, Aero Nelson,Charlotte,NC, AeroNelson@gmail.com,53,no,google search
+519, Lachlan Edwards,Bakersfield,CA, LachlanEdwards@gmail.com,51,yes,google search
+901, Adrian ohtani,Hollywood,FL, Adrianohtani@yahoo.com,9,yes,google search
+912, Jane Ryans,Toledo,OH, JaneRyans@yahoo.com,14,yes,google search
+1115, Cadence Chang,St. George,UT, CadenceChang@hotmail.com,21,No,google search
+399, Aria Thomas,Indianapolis,IN, AriaThomas@gmail.com,16,yes,instagram
+456, Fletcher Cooper,Lynn,MA, FletcherCooper@gmail.com,48,yes,instagram
+902, Quinn Lewis,Concord,CA, QuinnLewis@yahoo.com,9,yes,instagram
+1027, Forrest Jenkins,Highlands Ranch,CO, ForrestJenkins@hotmail.com,53,yes,instagram
+173, Noah Thomas,St. Paul,MN, NoahThomas@gmail.com,53,yes,referred by someone
+187, Sage Harris,Sandy Springs,GA, SageHarris@gmail.com,44,yes,referred by someone
+240, Dorian gunthers,Rancho Cucamonga,CA, Doriangunthers@gmail.com,33,yes,referred by someone
+244, Ezra ichiro,Paterson,NJ, Ezraichiro@gmail.com,14,yes,referred by someone
+568, Ash Brooks,Chicago,IL, AshBrooks@gmail.com,50,yes,referred by someone
+605, Lydia Duncan,Knoxville,TN, LydiaDuncan@gmail.com,18,no,referred by someone
+829, Maya Wang,Killeen,TX, MayaWang@gmail.com,39,yes,referred by someone
+1129, Lucas Simmons,Olathe,KS, LucasSimmons@hotmail.com,17,No,referred by someone
+162, Astrid Cruz,West Jordan,UT, AstridCruz@gmail.com,44,yes,special event
+517, Andrew Peterson,Beaumont,TX, AndrewPeterson@gmail.com,15,yes,special event
+608, Sadie Thompson,Las Cruces,NM, SadieThompson@gmail.com,12,no,special event
+782, Levi Hughes,Killeen,TX, LeviHughes@gmail.com,39,yes,special event
+803, Elijah Parker,Tyler,TX, ElijahParker@gmail.com,50,yes,special event
+116, Maisie Lafleur,Syracuse,NY, MaisieLafleur@gmail.com,10,yes,tik tok
+166, Lucy Allen,Santa Rosa,CA, LucyAllen@gmail.com,17,yes,tik tok
+278, Genevieve Vrabel,Mobile,AL, GenevieveVrabel@gmail.com,41,no,tik tok
+671, Clover Jackson,College Station,TX, CloverJackson@gmail.com,36,no,tik tok
+994, Adrian Morgan,Buckeye,AZ, AdrianMorgan@yahoo.com,15,yes,tik tok
+1084, Bennett King,Lewisville,TX, BennettKing@hotmail.com,12,yes,tik tok
+103, Phoenix Duncan,Concord,CA, PhoenixDuncan@gmail.com,35,no,special event
+377, Jesse King,Downey,CA, JesseKing@gmail.com,15,yes,google search
+1057, Vivienne Edwards,Tampa,FL, VivienneEdwards@hotmail.com,20,yes,google search
+276, Scarlett Turner,Reno,NV, ScarlettTurner@gmail.com,45,no,special event
+909, Piper Martin,High Point,NC, PiperMartin@yahoo.com,8,yes,special event
+658, Dahlia Carter,Tallahassee,FL, DahliaCarter@gmail.com,13,no,tv show
+791, Oscar Taylor,Albuquerque,NM, OscarTaylor@gmail.com,12,yes,tv show
+871, Finn Murphy,Rio Rancho,NM, FinnMurphy@yahoo.com,35,yes,tv show
+228, Lila Morgan,Waco,TX, LilaMorgan@gmail.com,10,yes,email news blast
+424, Owen Anderson,Santa Clarita,CA, OwenAnderson@gmail.com,32,yes,email news blast
+471, Camden Brooks,San Bernardino,CA, CamdenBrooks@gmail.com,17,yes,email news blast
+507, Maddox Taylor,Spokane,WA, MaddoxTaylor@gmail.com,10,yes,email news blast
+930, Emmett Baker,Wichita Falls,TX, EmmettBaker@yahoo.com,25,yes,email news blast
+388, Isla Perez,Roseville,CA, IslaPerez@gmail.com,21,yes,google search
+625, Harlow Kim,Aurora,CO, HarlowKim@gmail.com,14,no,google search
+614, Callahan Wang,Oklahoma City,OK, CallahanWang@gmail.com,26,no,instagram
+1047, Sage Chavez,McAllen,TX, SageChavez@hotmail.com,31,yes,instagram
+277, Mason Murray,Paradise,NV, MasonMurray@gmail.com,12,no,referred by someone
+733, Rhys Allen,Athens ,GA, RhysAllen@gmail.com,48,no,referred by someone
+952, Teagan Harris,Rio Rancho,NM, TeaganHarris@yahoo.com,37,yes,referred by someone
+371, Evangeline Moore,Akron,OH, EvangelineMoore@gmail.com,33,yes,special event
+535, Gemma Miller,Kansas City,KS, GemmaMiller@gmail.com,43,yes,special event
+751, Calliope Tang,Hartford,CT, CalliopeTang@gmail.com,11,no,special event
+1097, Nolan Walker,South Bend,IN, NolanWalker@hotmail.com,18,yes,special event
+841, Dakota Park,West Jordan,UT, DakotaPark@aol.com,16,yes,tik tok
+890, Charlotte Walker,St. George,UT, CharlotteWalker@yahoo.com,26,yes,tik tok
+975, Ivy Hernandez,Temecula,CA, IvyHernandez@yahoo.com,21,yes,tik tok
+895, Jude Cruz,Greensboro,NC, JudeCruz@yahoo.com,38,yes,tv show
+68, Avery gunthers,Berkeley,CA, Averygunthers@gmail.com,36,no,email news blast
+342, Lorelei Sanchez,Norfolk,VA, LoreleiSanchez@gmail.com,19,yes,email news blast
+796, Silas Rodriguez,Norfolk,VA, SilasRodriguez@gmail.com,51,yes,email news blast
+870, Cora Rodriguez,Fayetteville,AR, CoraRodriguez@yahoo.com,38,yes,email news blast
+610,Myles Anderson,New Braunfels,TX,MylesAnderson@gmail.com,23,no,google search
+1036, Scarlett Thomas,Norfolk,VA, ScarlettThomas@hotmail.com,24,yes,google search
+1064, Penelope Thomas,Lakewood,CO, PenelopeThomas@hotmail.com,43,yes,google search
+48,Norah Day,Moreno Valley,CA,NorahDay@gmail.com,24,no,instagram
+566, August Bennett,New Orleans,LA, AugustBennett@gmail.com,43,yes,instagram
+951,Killian Parker,Renton,WA,KillianParker@yahoo.com,36,yes,instagram
+718, Evelyn Moore,West Jordan,UT, EvelynMoore@gmail.com,21,no,referred by someone
+384, Elowen Miller,Tempe,AZ, ElowenMiller@gmail.com,18,yes,special event
+341, Imogen Thomas,Frisco,TX, ImogenThomas@gmail.com,24,yes,tik tok
+542, Micah Mitchell,Broken Arrow,OK, MicahMitchell@gmail.com,20,yes,tik tok
+632, Jonah Vrabel,Huntington Beach,CA, JonahVrabel@gmail.com,32,no,tv show
+881, Lucien Martin,San Bernardino,CA, LucienMartin@yahoo.com,33,yes,tv show
+922, Akira Thomas,Spokane Valley,WA, AkiraThomas@yahoo.com,38,yes,tv show
+1046, Gideon Wilson,St. George,UT, GideonWilson@hotmail.com,11,yes,tv show
+91, Ellis Reed,Richmond,VA, EllisReed@gmail.com,24,yes,email news blast
+153, Matthew Garcia,Hayward,CA, MatthewGarcia@gmail.com,22,yes,email news blast
+506, Andrew Kim,St. George,UT, AndrewKim@gmail.com,38,yes,email news blast
+1017,Bo Green,San Diego,CA,BoGreen@hotmail.com,16,yes,email news blast
+23, Maisie Smith,Fremont,CA, MaisieSmith@gmail.com,46,no,google search
+205, Otto Murray,Long Beach,CA, OttoMurray@gmail.com,40,yes,google search
+765, Lucien Smith,Tallahassee,FL, LucienSmith@gmail.com,31,no,google search
+939, Elliot Hill,Pasadena,CA, ElliotHill@yahoo.com,51,yes,google search
+989, Kai Young,Miramar,FL, KaiYoung@yahoo.com,42,yes,google search
+1110, Lachlan Robinson,Renton,WA, LachlanRobinson@hotmail.com,54,No,google search
+47, Beau Carter,Buckeye,AZ, BeauCarter@gmail.com,36,no,instagram
+119, Holden Duncan,Atlanta,GA, HoldenDuncan@gmail.com,38,yes,instagram
+363, Calliope Lee,Providence,RI, CalliopeLee@gmail.com,36,yes,instagram
+565, Isaac Harris,East Los Angeles,CA, IsaacHarris@gmail.com,32,yes,instagram
+784, Leo Parker,Metairie,LA, LeoParker@gmail.com,53,yes,instagram
+1108, Lachlan King,Lafayette,LA, LachlanKing@hotmail.com,51,No,instagram
+72, Benjamin Jackson,Reno,NV, BenjaminJackson@gmail.com,53,no,referred by someone
+709, Mason Phillips,Antioch,CA, MasonPhillips@gmail.com,51,no,referred by someone
+13, Logan Nelson,Gresham,OR, LoganNelson@gmail.com,14,no,special event
+29, Morgan Sanchez,Everett,WA, MorganSanchez@gmail.com,12,no,special event
+259, Avery Graham,Lansing,MI, AveryGraham@gmail.com,17,no,special event
+294, Alexander Perez,Manchester,NH, AlexanderPerez@gmail.com,33,no,special event
+527, Cyrus Ramirez,Rio Rancho,NM, CyrusRamirez@gmail.com,14,yes,special event
+607, Bennett Robinson,St. Petersburg,FL, BennettRobinson@gmail.com,21,no,special event
+776, Rhett Johnson,Green Bay,WI, RhettJohnson@gmail.com,50,yes,special event
+799, Beckett Turner,Miramar,FL, BeckettTurner@gmail.com,25,yes,special event
+971, Akira Evans,Lakewood,CO, AkiraEvans@yahoo.com,42,yes,special event
+32, Jude Edwards,Huntsville,AL, JudeEdwards@gmail.com,45,no,tik tok
+134, Esme Foster,Winston-Salem,NC, EsmeFoster@gmail.com,21,yes,tik tok
+257, Aidan Tang,Escondido,CA, AidanTang@gmail.com,43,no,tik tok
+927, Aria guthrie,Tyler,TX, Ariaguthrie@yahoo.com,46,yes,tik tok
+25, Rhett Perez,Durham,NC, RhettPerez@gmail.com,25,no,tv show
+195, Landon gunderson,West Valley City,UT, Landongunderson@gmail.com,33,yes,tv show
+392, Margot Duncan,West Palm Beach,FL, MargotDuncan@gmail.com,26,yes,tv show
+556, Henry Won,Tyler,TX, HenryWon@gmail.com,40,yes,tv show
+611, Naomi Thomas,Allen,TX, NaomiThomas@gmail.com,14,no,tv show
+757,Alistair Perez,Dayton,OH,AlistairPerez@gmail.com,36,no,tv show
+1065, Miles Duncan,Pasadena,CA, MilesDuncan@hotmail.com,40,yes,tv show
+36, Beau Murray,Carmel,IN, BeauMurray@gmail.com,26,no,email news blast
+74, Juliet Phillips,Boulder,CO, JulietPhillips@gmail.com,10,no,email news blast
+183, Sasha Hernandez,Abilene,TX, SashaHernandez@gmail.com,12,yes,email news blast
+345, Sage Thomas,San Diego,CA, SageThomas@gmail.com,39,yes,email news blast
+537, Addison Duncan,McKinney,TX, AddisonDuncan@gmail.com,15,yes,google search
+812,Emilia Miller,Santa Rosa,CA,EmiliaMiller@gmail.com,29,yes,google search
+1147, Arlo Miller,Riverside,CA, ArloMiller@hotmail.com,19,No,google search
+385,Norah gunderson,Birmingham,AL,Norahgunderson@gmail.com,38,yes,instagram
+609, Tate Sanchez,Modesto,CA, TateSanchez@gmail.com,23,no,instagram
+685, Jade Thomas,Westminster,CO, JadeThomas@gmail.com,25,no,instagram
+979, Esme Ramirez,Atlanta,GA, EsmeRamirez@yahoo.com,46,yes,instagram
+990, Carter Morgan,Victorville,CA, CarterMorgan@yahoo.com,48,yes,instagram
+90, Dominic Barnes,Fargo,ND, DominicBarnes@gmail.com,35,yes,referred by someone
+304, Hugo ichiro,South Fulton,GA, Hugoichiro@gmail.com,29,no,referred by someone
+839,Norah Campbell,Mobile,AL,NorahCampbell@aol.com,20,yes,referred by someone
+563, Harrison White,Madison,WI, HarrisonWhite@gmail.com,28,yes,special event
+463, River Phillips,Suffolk,VA, RiverPhillips@gmail.com,34,yes,tik tok
+492, Ellis Tomlin,Sterling Heights,MI, EllisTomlin@gmail.com,24,yes,tik tok
+704, Emmett Brooks,Surprise,AZ, EmmettBrooks@gmail.com,13,no,tik tok
+705,Lilah Kim,Spring Hill,FL,LilahKim@gmail.com,42,no,tik tok
+67, Max Robinson,Toledo,OH, MaxRobinson@gmail.com,48,no,tv show
+427, Quinn Vrabel,Denton,TX, QuinnVrabel@gmail.com,10,yes,tv show
+891, Jonah Hughes,Fort Collins,CO, JonahHughes@yahoo.com,17,yes,tv show
+1081, Mason Young,West Valley City,UT, MasonYoung@hotmail.com,49,yes,tv show
+731, Bellamy Hill,Las Cruces,NM, BellamyHill@gmail.com,16,no,email news blast
+984, Archer Thompson,Eugene,OR, ArcherThompson@yahoo.com,52,yes,email news blast
+8, Ethan ohtani,Provo,UT, Ethanohtani@gmail.com,49,no,google search
+131, Audrey Barnes,Toledo,OH, AudreyBarnes@gmail.com,38,yes,google search
+592, Poppy Edwards,Westminster,CO, PoppyEdwards@gmail.com,27,yes,google search
+866, Gavin Kim,Los Angeles,CA, GavinKim@yahoo.com,47,yes,google search
+115,Regan Kelly,Concord,CA,ReganKelly@gmail.com,34,yes,instagram
+141, Aubrey Walker,North Las Vegas,NV, AubreyWalker@gmail.com,13,yes,instagram
+321, Nora Garcia,McAllen,TX, NoraGarcia@gmail.com,46,no,instagram
+382, Luca Griffin,New Orleans,LA, LucaGriffin@gmail.com,30,yes,instagram
+924, Raine Anderson,Rochester,NY, RaineAnderson@yahoo.com,16,yes,referred by someone
+34, Hannah Chang,Miami Gardens ,FL, HannahChang@gmail.com,9,no,special event
+437, Alexander Chavez,Henderson,NV, AlexanderChavez@gmail.com,9,yes,special event
+532, Vivienne Foster,New Braunfels,TX, VivienneFoster@gmail.com,11,yes,special event
+686, Archer Campbell,Odessa,TX, ArcherCampbell@gmail.com,8,no,special event
+956, Evelyn Wallace,Stamford,CT, EvelynWallace@yahoo.com,21,yes,special event
+46, Mason Griffin,Glendale,AZ, MasonGriffin@gmail.com,19,no,tik tok
+579, Rory ichiro,Hartford,CT, Roryichiro@gmail.com,8,yes,tik tok
+789, James Chung,Orange,CA, JamesChung@gmail.com,9,yes,tik tok
+127, Acorn Scott,Vacaville,CA, AcornScott@gmail.com,51,yes,tv show
+481, Josephine Sanchez,Lincoln,NE, JosephineSanchez@gmail.com,21,yes,tv show
+258, Orion Allen,Victorville,CA, OrionAllen@gmail.com,40,no,email news blast
+1037, Oakley Hughes,Lexington ,KY, OakleyHughes@hotmail.com,44,yes,email news blast
+204, Ellis gunthers,Arlington,TX, Ellisgunthers@gmail.com,25,yes,instagram
+398, Jude Griffin,Plano,TX, JudeGriffin@gmail.com,24,yes,instagram
+401, Emmett Tomlin,Des Moines,IA, EmmettTomlin@gmail.com,12,yes,referred by someone
+1007, Lucas Day,Arlington,TX, LucasDay@yahoo.com,53,yes,referred by someone
+186, Oliver Thomas,Gresham,OR, OliverThomas@gmail.com,22,yes,special event
+847, Saoirse Harbaugh,Anchorage,AK, SaoirseHarbaugh@aol.com,21,yes,special event
+273, Elliott Campbell,Sandy Springs,GA, ElliottCampbell@gmail.com,46,no,tik tok
+397, Claire Nichols,Murrieta,CA, ClaireNichols@gmail.com,52,yes,tv show
+599, Arden Perez,Macon ,GA, ArdenPerez@gmail.com,18,no,tv show
+2, Ainsley Foster,Elizabeth,NJ, AinsleyFoster@gmail.com,32,yes,email news blast
+518, Blair Anderson,Yonkers,NY, BlairAnderson@gmail.com,52,yes,email news blast
+1083, Wren Kelly,Las Vegas,NV, WrenKelly@hotmail.com,54,yes,email news blast
+155, Wren Hughes,Vallejo,CA, WrenHughes@gmail.com,43,yes,google search
+407, Felicity Tang,Oklahoma City,OK, FelicityTang@gmail.com,10,yes,google search
+445, Malachi Kim,Memphis,TN, MalachiKim@gmail.com,51,yes,google search
+1069, Clover Clark,Pittsburgh,PA, CloverClark@hotmail.com,40,yes,google search
+612, Adeline Duncan,Dayton,OH, AdelineDuncan@gmail.com,8,no,instagram
+344, Juniper Reed,Davie,FL, JuniperReed@gmail.com,53,yes,referred by someone
+665, Lennox Nichols,San Mateo,CA, LennoxNichols@gmail.com,50,no,referred by someone
+190, Ethan Nelson,Madison,WI, EthanNelson@gmail.com,52,yes,special event
+1144,Fynn Sanders,Suffolk,VA,FynnSanders@hotmail.com,53,No,tv show
+541, Ellis Carter,Dayton,OH, EllisCarter@gmail.com,48,yes,email news blast
+194, Callum Turner,Temecula,CA, CallumTurner@gmail.com,15,yes,google search
+231, Lincoln gunderson,Paradise,NV, Lincolngunderson@gmail.com,22,yes,google search
+538,Greyson Jackson,Gilbert,AZ,GreysonJackson@gmail.com,17,yes,special event
+322, Callan Perez,North Las Vegas,NV, CallanPerez@gmail.com,13,no,tik tok
+935, Mason Allen,Salem,OR, MasonAllen@yahoo.com,45,yes,tik tok
+1101, Poppy Smith,Independence,MO, PoppySmith@hotmail.com,51,yes,tik tok
+1043, Camille Smith,Columbia,MD, CamilleSmith@hotmail.com,24,yes,email news blast
+404, Elijah Hernandez,Fishers,IN, ElijahHernandez@gmail.com,41,yes,instagram
+436, Autumn Morgan,Richmond,VA, AutumnMorgan@gmail.com,46,yes,instagram
+226,Juliette Wang,Henderson,NV,JulietteWang@gmail.com,33,yes,referred by someone
+473, Eliza Nichols,St. Louis,MO, ElizaNichols@gmail.com,14,yes,referred by someone
+268,Greyson Cooper,Charlotte,NC,GreysonCooper@gmail.com,10,no,tik tok
+280, Daisy Martin,Henderson,NV, DaisyMartin@gmail.com,24,no,tik tok
+338, Aubrey Roberts,Centennial,CO, AubreyRoberts@gmail.com,48,yes,tv show
+727, Cadence ichiro,San Jose,CA, Cadenceichiro@gmail.com,31,no,instagram
+20, Opal Kim,Virginia Beach,VA, OpalKim@gmail.com,47,no,tik tok
+412, Theo Tomlin,Elgin,IL, TheoTomlin@gmail.com,43,yes,tv show
+1149, Harlow Thompson,East Los Angeles,CA, HarlowThompson@hotmail.com,9,No,tv show
+1162, Arlo Campbell,Killeen,TX, ArloCampbell@hotmail.com,48,No,tv show
+596, Dorian Griffin,Fayetteville,AR, DorianGriffin@gmail.com,35,no,email news blast
+474, Audrey Lafleur,San Diego,CA, AudreyLafleur@gmail.com,24,yes,google search
+1089, Rory Anderson,Arvada,CO, RoryAnderson@hotmail.com,36,yes,google search
+120, Ariel Wang,Sioux Falls,SD, ArielWang@gmail.com,9,yes,instagram
+613, Jackson Griffin,Virginia Beach,VA, JacksonGriffin@gmail.com,46,no,instagram
+326,Xavier Rodriguez,Spokane Valley,WA,XavierRodriguez@gmail.com,13,no,referred by someone
+400, Andrew Ramirez,Fontana,CA, AndrewRamirez@gmail.com,48,yes,referred by someone
+188, Lucien Tang,St. Paul,MN, LucienTang@gmail.com,50,yes,special event
+313, Benjamin Hill,Torrance,CA, BenjaminHill@gmail.com,49,no,special event
+534, Harrison Wallace,Miami Gardens ,FL, HarrisonWallace@gmail.com,9,yes,special event
+571, Landon gunnersan,Des Moines,IA, Landongunnersan@gmail.com,24,yes,special event
+773, Juno Campbell,Chesapeake,VA, JunoCampbell@gmail.com,29,no,special event
+792, Anastasia Nichols,Roseville,CA, AnastasiaNichols@gmail.com,35,yes,special event
+265, Vivian Rodriguez,Thornton,CO, VivianRodriguez@gmail.com,18,no,tik tok
+318, Owen Day,Vacaville,CA, OwenDay@gmail.com,15,no,tik tok
+361, Otto Davis,Virginia Beach,VA, OttoDavis@gmail.com,28,yes,tik tok
+395, Flynn Harris,Palm Bay,FL, FlynnHarris@gmail.com,45,yes,tik tok
+501,Regan Williams,Berkeley,CA,ReganWilliams@gmail.com,36,yes,tik tok
+795, Daphne Perez,Honolulu ,HI, DaphnePerez@gmail.com,21,yes,tik tok
+1071, Micah Bailey,Elk Grove ,CA, MicahBailey@hotmail.com,37,yes,tik tok
+44, Ryan Smith,New Bedford,MA, RyanSmith@gmail.com,53,no,tv show
+69, Delaney Harris,Minneapolis,MN, DelaneyHarris@gmail.com,36,no,tv show
+95, Eden Williams,Lexington ,KY, EdenWilliams@gmail.com,54,no,tv show
+135, Caroline Davis,Edison,NJ, CarolineDavis@gmail.com,20,yes,tv show
+140, Alaric Tomlin,Indianapolis,IN, AlaricTomlin@gmail.com,41,yes,tv show
+147, Athena Johnson,Raleigh,NC, AthenaJohnson@gmail.com,52,yes,tv show
+160, Alexander Nelson,Boston,MA, AlexanderNelson@gmail.com,14,yes,tv show
+200, Marley Allen,Milwaukee,WI, MarleyAllen@gmail.com,54,yes,tv show
+213, Wyatt Edwards,Charlotte,NC, WyattEdwards@gmail.com,31,yes,tv show
+505, River Thomas,Jurupa Valley,CA, RiverThomas@gmail.com,40,yes,tv show
+560, James Roberts,Suffolk,VA, JamesRoberts@gmail.com,50,yes,tv show
+583, Caroline Williams,Surprise,AZ, CarolineWilliams@gmail.com,14,yes,tv show
+637, Isabella Duncan,Coral Springs,FL, IsabellaDuncan@gmail.com,39,no,tv show
+699, Holden Wilson,New Haven,CT, HoldenWilson@gmail.com,15,no,tv show
+759, Ivy Park,Surprise,AZ, IvyPark@gmail.com,43,no,tv show
+809, James Robinson,New Braunfels,TX, JamesRobinson@gmail.com,28,yes,tv show
+888, James King,Lehigh Acres,FL, JamesKing@yahoo.com,33,yes,tv show
+955, Morgan Cooper,Gainesville,FL, MorganCooper@yahoo.com,16,yes,tv show
+993, Sadie Collins,Hartford,CT, SadieCollins@yahoo.com,37,yes,tv show
+1026, Alexander Thomas,Antioch,CA, AlexanderThomas@hotmail.com,40,yes,tv show
+1120, Valerie Green,Baton Rouge,LA, ValerieGreen@hotmail.com,51,No,tv show
+37, Ellis Sanchez,Elgin,IL, EllisSanchez@gmail.com,36,no,email news blast
+45,Emilia Campbell,Augusta ,GA,EmiliaCampbell@gmail.com,43,no,email news blast
+154, Celeste Lee,Austin,TX, CelesteLee@gmail.com,12,yes,email news blast
+163, Winter Kelly,Rochester,NY, WinterKelly@gmail.com,29,yes,email news blast
+216, Ophelia Jackson,Pittsburgh,PA, OpheliaJackson@gmail.com,30,yes,email news blast
+238,Elliott Lafleur,Topeka,KS,ElliottLafleur@gmail.com,29,yes,email news blast
+292, Ash gunderson,Jersey City,NJ, Ashgunderson@gmail.com,45,no,email news blast
+305, Eliza Barnes,Palmdale,CA, ElizaBarnes@gmail.com,21,no,email news blast
+373, River Chang,Laredo,TX, RiverChang@gmail.com,41,yes,email news blast
+515,Myles Campbell,Wichita,KS,MylesCampbell@gmail.com,29,yes,email news blast
+573, Eloise Robinson,Frisco,TX, EloiseRobinson@gmail.com,50,yes,email news blast
+640,Fynn Wang,Coral Springs,FL,FynnWang@gmail.com,28,no,email news blast
+694, Clementine Davis,Rockford,IL, ClementineDavis@gmail.com,10,no,email news blast
+936, Aspen Griffin,Toledo,OH, AspenGriffin@yahoo.com,39,yes,email news blast
+940, Sophia Tomlin,Bakersfield,CA, SophiaTomlin@yahoo.com,29,yes,email news blast
+1003, Logan Foster,Chesapeake,VA, LoganFoster@yahoo.com,48,yes,email news blast
+1014, Thomas Bennett,New Braunfels,TX, ThomasBennett@yahoo.com,9,yes,email news blast
+1034, Ellis Clark,Charlotte,NC, EllisClark@hotmail.com,47,yes,email news blast
+125,Arya Green,Huntington Beach,CA,AryaGreen@gmail.com,21,yes,google search
+191, Benjamin Reed,Rochester,NY, BenjaminReed@gmail.com,15,yes,google search
+193, Daphne Duncan,Rio Rancho,NM, DaphneDuncan@gmail.com,52,yes,google search
+211, Alexander Baker,Hayward,CA, AlexanderBaker@gmail.com,47,yes,google search
+431, Meadow ohtani,Burbank,CA, Meadowohtani@gmail.com,45,yes,google search
+448, Blake Harris,Port St. Lucie,FL, BlakeHarris@gmail.com,25,yes,google search
+511, Cole Allen,Warren,MI, ColeAllen@gmail.com,35,yes,google search
+516, Emerson Reed,St. Louis,MO, EmersonReed@gmail.com,27,yes,google search
+569, Aero Jackson,Greeley,CO, AeroJackson@gmail.com,19,yes,google search
+591, Willow Hill,San Mateo,CA, WillowHill@gmail.com,30,yes,google search
+595, Rowan Chavez,Rio Rancho,NM, RowanChavez@gmail.com,8,no,google search
+642, Autumn Hughes,Antioch,CA, AutumnHughes@gmail.com,52,no,google search
+652, Adeline gunnersan,Round Rock,TX, Adelinegunnersan@gmail.com,25,no,google search
+675,Margo Cruz,Fresno,CA,MargoCruz@gmail.com,48,no,google search
+687, Grace Anderson,Corpus Christi,TX, GraceAnderson@gmail.com,44,no,google search
+755, Levi Barnes,Gilbert,AZ, LeviBarnes@gmail.com,45,no,google search
+793,Fynn Davis,Dayton,OH,FynnDavis@gmail.com,47,yes,google search
+794, Reagan White,McAllen,TX, ReaganWhite@gmail.com,12,yes,google search
+853, Ophelia Park,Port St. Lucie,FL, OpheliaPark@aol.com,46,yes,google search
+904, Ambrose Smith,Antioch,CA, AmbroseSmith@yahoo.com,29,yes,google search
+908,Juliette Tomlin,Dallas,TX,JulietteTomlin@yahoo.com,47,yes,google search
+943, Lachlan Hill,Hialeah,FL, LachlanHill@yahoo.com,12,yes,google search
+973, Maeve Harbaugh,Brandon,FL, MaeveHarbaugh@yahoo.com,40,yes,google search
+988, Ambrose Allen,Tucson,AZ, AmbroseAllen@yahoo.com,29,yes,google search
+1042, Cora Allen,Bellevue,WA, CoraAllen@hotmail.com,50,yes,google search
+1088,Elliott Davis,Hesperia,CA,ElliottDavis@hotmail.com,18,yes,google search
+1123, Ari Long,Fontana,CA, AriLong@hotmail.com,42,No,google search
+1167, Dante Lafleur,Santa Clara,CA, DanteLafleur@hotmail.com,47,No,google search
+3, Eloise Tang,Westminster,CO, EloiseTang@gmail.com,30,yes,instagram
+62, Aubrey Foster,Santa Clara,CA, AubreyFoster@gmail.com,18,no,instagram
+172, Celeste Johnson,New York,NY, CelesteJohnson@gmail.com,43,yes,instagram
+178, Theo Collins,West Covina,CA, TheoCollins@gmail.com,41,yes,instagram
+283, Genevieve Anderson,Las Vegas,NV, GenevieveAnderson@gmail.com,32,no,instagram
+308, Adalyn Evans,Glendale,AZ, AdalynEvans@gmail.com,30,no,instagram
+310,Myles Walker,Riverside,CA,MylesWalker@gmail.com,15,no,instagram
+328, Grayson Peterson,Memphis,TN, GraysonPeterson@gmail.com,24,yes,instagram
+349, Sasha ichiro,Aurora,CO, Sashaichiro@gmail.com,25,yes,instagram
+488, Jasper Lewis,Edison,NJ, JasperLewis@gmail.com,39,yes,instagram
+522, Opal gunderson,Carlsbad,CA, Opalgunderson@gmail.com,25,yes,instagram
+523, Maeve Kim,Garden Grove,CA, MaeveKim@gmail.com,45,yes,instagram
+623, Gideon Kim,El Cajon,CA, GideonKim@gmail.com,41,no,instagram
+703,Aiden Garcia,Temecula,CA,AidenGarcia@gmail.com,10,no,instagram
+706, Aubrey Edwards,Denver,CO, AubreyEdwards@gmail.com,29,no,instagram
+728, Harlow Chung,Dallas,TX, HarlowChung@gmail.com,16,no,instagram
+735, Gideon Jackson,Amarillo,TX, GideonJackson@gmail.com,40,no,instagram
+758, Noah Park,Paradise,NV, NoahPark@gmail.com,53,no,instagram
+831, Caspian Martin,Henderson,NV, CaspianMartin@gmail.com,27,yes,instagram
+861, Lennox Perez,Aurora,CO, LennoxPerez@aol.com,46,yes,instagram
+926, Evelyn Park,Fort Collins,CO, EvelynPark@yahoo.com,16,yes,instagram
+966, Marley Walker,Springfield,IL, MarleyWalker@yahoo.com,43,yes,instagram
+998, Jude Chang,Fresno,CA, JudeChang@yahoo.com,37,yes,instagram
+1019, Aurora Graham,St. George,UT, AuroraGraham@hotmail.com,47,yes,instagram
+1041, Theo Harris,Albuquerque,NM, TheoHarris@hotmail.com,40,yes,instagram
+1093, Malachi Anderson,Arlington,TX, MalachiAnderson@hotmail.com,27,yes,instagram
+1095, Jasper Lee,Hillsboro,OR, JasperLee@hotmail.com,13,yes,instagram
+1, Cyrus Nelson,McAllen,TX, CyrusNelson@gmail.com,54,no,referred by someone
+60, Hannah Peterson,Winston-Salem,NC, HannahPeterson@gmail.com,52,no,referred by someone
+87, Ruth Mitchell,Akron,OH, RuthMitchell@gmail.com,42,yes,referred by someone
+114, Dahlia Tang,Lubbock,TX, DahliaTang@gmail.com,23,yes,referred by someone
+300, Declan Smith,Corona,CA, DeclanSmith@gmail.com,11,no,referred by someone
+368, Asher Hernandez,Killeen,TX, AsherHernandez@gmail.com,12,yes,referred by someone
+418, Micah Tomlin,Santa Ana,CA, MicahTomlin@gmail.com,34,yes,referred by someone
+493, Gemma Bailey,El Cajon,CA, GemmaBailey@gmail.com,16,yes,referred by someone
+627, Callan Hill,Lexington ,KY, CallanHill@gmail.com,9,no,referred by someone
+770, Skye Davis,Riverside,CA, SkyeDavis@gmail.com,48,no,referred by someone
+807, Rose Rodriguez,Tacoma,WA, RoseRodriguez@gmail.com,26,yes,referred by someone
+857, Maeve Perez,Sunrise Manor,NV, MaevePerez@aol.com,51,yes,referred by someone
+868, Thomas Campbell,Bakersfield,CA, ThomasCampbell@yahoo.com,13,yes,referred by someone
+874, Ezra Chung,Greeley,CO, EzraChung@yahoo.com,54,yes,referred by someone
+917,Norah Johnson,Miami,FL,NorahJohnson@yahoo.com,27,yes,referred by someone
+938, Brody Foster,Oxnard,CA, BrodyFoster@yahoo.com,36,yes,referred by someone
+1020, Gavin Chung,Hayward,CA, GavinChung@hotmail.com,44,yes,referred by someone
+22, Opal Clark,Denton,TX, OpalClark@gmail.com,42,no,special event
+27, Kai Allen,Augusta ,GA, KaiAllen@gmail.com,48,no,special event
+40, Skye Reed,Newark,NJ, SkyeReed@gmail.com,22,no,special event
+78, Orion Anderson,Cleveland,OH, OrionAnderson@gmail.com,40,no,special event
+143, Clover Sanders,Waco,TX, CloverSanders@gmail.com,52,yes,special event
+219, Luca Day,Fort Wayne,IN, LucaDay@gmail.com,31,yes,special event
+286, Alastair Walker,Concord,CA, AlastairWalker@gmail.com,30,no,special event
+394, Emerson Martin,Oklahoma City,OK, EmersonMartin@gmail.com,40,yes,special event
+670, Jamie White,Arlington,TX, JamieWhite@gmail.com,37,no,special event
+726,Margo Martin,Tyler,TX,MargoMartin@gmail.com,53,no,special event
+845, Aurelia Phillips,Lynn,MA, AureliaPhillips@aol.com,20,yes,special event
+846, Liam Anderson,Lowell,MA, LiamAnderson@aol.com,33,yes,special event
+851, Calliope Smith,Denton,TX, CalliopeSmith@aol.com,13,yes,special event
+862, Cyrus Lee,Cleveland,OH, CyrusLee@aol.com,26,yes,special event
+941, Fletcher King,Salinas,CA, FletcherKing@yahoo.com,33,yes,special event
+1126, Ruth ohtani,Raleigh,NC, Ruthohtani@hotmail.com,32,No,special event
+1158, Naomi Edwards,Cedar Rapids,IA, NaomiEdwards@hotmail.com,11,No,special event
+56,Elliott Duncan,Pembroke Pines,FL,ElliottDuncan@gmail.com,45,no,tik tok
+64, Elliot Harris,Yonkers,NY, ElliotHarris@gmail.com,36,no,tik tok
+65, Vivian Bailey,Coral Springs,FL, VivianBailey@gmail.com,42,no,tik tok
+159, Arlo Duncan,Provo,UT, ArloDuncan@gmail.com,34,yes,tik tok
+256, Clove Jenkins,Rockford,IL, CloveJenkins@gmail.com,16,yes,tik tok
+281, Matthew Clark,Port St. Lucie,FL, MatthewClark@gmail.com,12,no,tik tok
+284, Josephine Evans,Bakersfield,CA, JosephineEvans@gmail.com,42,no,tik tok
+327, Lucien Cooper,Kansas City,KS, LucienCooper@gmail.com,51,no,tik tok
+339, Andrew Nelson,Killeen,TX, AndrewNelson@gmail.com,54,yes,tik tok
+360, Luca Rodriguez,Santa Clarita,CA, LucaRodriguez@gmail.com,49,yes,tik tok
+366, Cadence Thomas,Athens ,GA, CadenceThomas@gmail.com,43,yes,tik tok
+378,Sofia Sanchez,Tuscaloosa,AL,SofiaSanchez@gmail.com,16,yes,tik tok
+383, Sawyer Won,St. Petersburg,FL, SawyerWon@gmail.com,54,yes,tik tok
+393, Miles Campbell,Memphis,TN, MilesCampbell@gmail.com,39,yes,tik tok
+432, Layla Kim,Mesquite,TX, LaylaKim@gmail.com,48,yes,tik tok
+475, Orion Collins,Tampa,FL, OrionCollins@gmail.com,17,yes,tik tok
+554, Teagan Carter,Washington,DC, TeaganCarter@gmail.com,15,yes,tik tok
+725, Clove Duncan,Denver,CO, CloveDuncan@gmail.com,17,no,tik tok
+832, River Hernandez,Cleveland,OH, RiverHernandez@aol.com,45,yes,tik tok
+1061, Declan Campbell,Temecula,CA, DeclanCampbell@hotmail.com,36,yes,tik tok
+1077, Mason Baker,Conroe,TX, MasonBaker@hotmail.com,26,yes,tik tok
+1109, Harlow Brooks,Oakland,CA, HarlowBrooks@hotmail.com,9,No,tik tok
+1132, Lincoln Kim,Cary,NC, LincolnKim@hotmail.com,25,No,tik tok
+413, Nora Murray,Los Angeles,CA, NoraMurray@gmail.com,46,yes,tv show
+325, Luna Chavez,Broken Arrow,OK, LunaChavez@gmail.com,41,no,email news blast
+1143, Cadence guthrie,Concord,CA, Cadenceguthrie@hotmail.com,46,No,email news blast
+598, Lennox Evans,Carlsbad,CA, LennoxEvans@gmail.com,44,no,google search
+715, Genevieve Baker,Enterprise,NV, GenevieveBaker@gmail.com,28,no,google search
+987, James Johnson,Clovis,CA, JamesJohnson@yahoo.com,51,yes,google search
+110, Atticus Murray,Enterprise,NV, AtticusMurray@gmail.com,47,no,instagram
+319, Ainsley White,Murfreesboro,TN, AinsleyWhite@gmail.com,51,no,instagram
+340, Nova Graham,Greeley,CO, NovaGraham@gmail.com,43,yes,instagram
+439, Carter Griffin,The Woodlands,TX, CarterGriffin@gmail.com,34,yes,instagram
+749, Callan Thompson,Albuquerque,NM, CallanThompson@gmail.com,47,no,instagram
+21, Emmett Campbell,Santa Clara,CA, EmmettCampbell@gmail.com,8,no,referred by someone
+991, Adam Long,West Covina,CA, AdamLong@yahoo.com,50,yes,referred by someone
+1085, Wyatt Thomas,South Fulton,GA, WyattThomas@hotmail.com,32,yes,referred by someone
+332, Gwendolyn Evans,Waco,TX, GwendolynEvans@gmail.com,12,yes,special event
+175, Amelia Stewart,Boulder,CO, AmeliaStewart@gmail.com,13,yes,tv show
+422, Ruby Ramirez,Allen,TX, RubyRamirez@gmail.com,47,yes,tv show
+561, Grayson Duncan,Goodyear,AZ, GraysonDuncan@gmail.com,44,yes,tv show
+649, Aurelia Clark,Brownsville,TX, AureliaClark@gmail.com,51,no,tv show
+1040, Willow Chung,Greensboro,NC, WillowChung@hotmail.com,54,yes,tv show
+1145, Autumn Campbell,Reno,NV, AutumnCampbell@hotmail.com,33,No,tv show
+664, Noah King,Antioch,CA, NoahKing@gmail.com,46,no,email news blast
+667, Nathaniel Hernandez,Pembroke Pines,FL, NathanielHernandez@gmail.com,24,no,email news blast
+811, Ember Hughes,Sioux Falls,SD, EmberHughes@gmail.com,54,yes,email news blast
+1024, Marigold Lee,Aurora,CO, MarigoldLee@hotmail.com,20,yes,email news blast
+1075, Samuel Vrabel,Gilbert,AZ, SamuelVrabel@hotmail.com,14,yes,email news blast
+6, Eva Ramirez,North Charleston,SC, EvaRamirez@gmail.com,46,yes,google search
+309,Regan Park,Washington,DC,ReganPark@gmail.com,37,no,google search
+720, Wren Baker,Downey,CA, WrenBaker@gmail.com,48,no,google search
+1029, Lily Robinson,Billings,MT, LilyRobinson@hotmail.com,15,yes,google search
+264, Finn Peterson,Louisville ,KY, FinnPeterson@gmail.com,47,no,instagram
+417, Noah Sanchez,Hesperia,CA, NoahSanchez@gmail.com,49,yes,instagram
+461, Liam Jackson,Jacksonville,FL, LiamJackson@gmail.com,34,yes,instagram
+520, Hudson Carter,Metairie,LA, HudsonCarter@gmail.com,53,yes,instagram
+628, Violet Roberts,Albany,NY, VioletRoberts@gmail.com,16,no,instagram
+744, Adrian Cooper,High Point,NC, AdrianCooper@gmail.com,15,no,instagram
+863,Emilia Robinson,Santa Clarita,CA,EmiliaRobinson@aol.com,49,yes,instagram
+1131, Elliott Cruz,Jackson,MS, ElliottCruz@hotmail.com,41,No,instagram
+85, Adler White,Joliet,IL, AdlerWhite@gmail.com,21,yes,referred by someone
+402, Eleanor Bennett,Memphis,TN, EleanorBennett@gmail.com,15,yes,referred by someone
+478, Henry Johnson,South Fulton,GA, HenryJohnson@gmail.com,12,yes,referred by someone
+489, Meadow gunthers,Pasadena,CA, Meadowgunthers@gmail.com,44,yes,referred by someone
+577, Arden Rodriguez,North Charleston,SC, ArdenRodriguez@gmail.com,18,yes,referred by someone
+716, Amelia Murphy,Philadelphia,PA, AmeliaMurphy@gmail.com,38,no,referred by someone
+428, Addison Thompson,Fullerton,CA, AddisonThompson@gmail.com,14,yes,special event
+953, Ruby Young,Fort Worth,TX, RubyYoung@yahoo.com,32,yes,special event
+291, Luca Murray,Springfield,IL, LucaMurray@gmail.com,43,no,tik tok
+1073, Cassidy Peterson,Eugene,OR, CassidyPeterson@hotmail.com,17,yes,tik tok
+1074, Brennan Edwards,Jersey City,NJ, BrennanEdwards@hotmail.com,11,yes,tik tok
+1091, Eloise Campbell,Wilmington,NC, EloiseCampbell@hotmail.com,21,yes,tik tok
+144, Daniel Graham,Thousand Oaks,CA, DanielGraham@gmail.com,47,yes,tv show
+692, Rose Allen,Dearborn,MI, RoseAllen@gmail.com,14,no,tv show
+921, Eliza Thomas,Omaha,NE, ElizaThomas@yahoo.com,39,yes,tv show
+1023, Maya Johnson,Santa Clara,CA, MayaJohnson@hotmail.com,24,yes,tv show
+1025, Dante Scott,Little Rock,AR, DanteScott@hotmail.com,48,yes,tv show
+1155, Jude Lee,Joliet,IL, JudeLee@hotmail.com,16,No,tv show
+199, Dominic Duncan,Springfield,IL, DominicDuncan@gmail.com,11,yes,email news blast
+293, Jude Park,Rialto,CA, JudePark@gmail.com,32,no,email news blast
+963, Owen Park,Gresham,OR, OwenPark@yahoo.com,51,yes,email news blast
+1127, Audrey Simmons,Thornton,CO, AudreySimmons@hotmail.com,30,No,email news blast
+9, Stella Hughes,Concord,CA, StellaHughes@gmail.com,39,no,google search
+11, Clove Collins,Los Angeles,CA, CloveCollins@gmail.com,54,no,google search
+148, Dante Collins,Scottsdale,AZ, DanteCollins@gmail.com,35,yes,google search
+659, Orion Clark,Roseville,CA, OrionClark@gmail.com,41,no,google search
+719, Riley Campbell,San Antonio,TX, RileyCampbell@gmail.com,21,no,google search
+324, August Baker,Thousand Oaks,CA, AugustBaker@gmail.com,19,no,instagram
+558, Cyrus Garcia,Clovis,CA, CyrusGarcia@gmail.com,38,yes,instagram
+775, Dominic Robinson,Springfield,IL, DominicRobinson@gmail.com,31,no,instagram
+1033,Greyson guthrie,Sunrise Manor,NV,Greysonguthrie@hotmail.com,14,yes,instagram
+494, Morgan Duncan,Fullerton,CA, MorganDuncan@gmail.com,29,yes,referred by someone
+896, Jackson Nelson,Bakersfield,CA, JacksonNelson@yahoo.com,51,yes,referred by someone
+606,Juliette Griffin,Fort Lauderdale,FL,JulietteGriffin@gmail.com,40,no,special event
+5, Aria Cruz,St. George,UT, AriaCruz@gmail.com,44,yes,tik tok
+249, Astrid Morgan,St. Petersburg,FL, AstridMorgan@gmail.com,22,yes,tik tok
+589, Vivienne Johnson,Carmel,IN, VivienneJohnson@gmail.com,26,yes,tik tok
+668, Holden Phillips,Rochester,NY, HoldenPhillips@gmail.com,21,no,tik tok
+772, Akira Harris,Davenport,IA, AkiraHarris@gmail.com,53,no,tik tok
+879, Luca Wang,Corpus Christi,TX, LucaWang@yahoo.com,22,yes,tik tok
+167, Carter Cruz,Metairie,LA, CarterCruz@gmail.com,12,yes,email news blast
+215, Milo Long,Elk Grove ,CA, MiloLong@gmail.com,49,yes,email news blast
+269, Eden Bennett,Vancouver,WA, EdenBennett@gmail.com,30,no,email news blast
+214,Emilia Roberts,Brockton,MA,EmiliaRoberts@gmail.com,15,yes,instagram
+843, Eleanor Stewart,Las Cruces,NM, EleanorStewart@aol.com,27,yes,instagram
+380, Atticus Murphy,Norfolk,VA, AtticusMurphy@gmail.com,38,yes,referred by someone
+483, Matthew Wilson,San Antonio,TX, MatthewWilson@gmail.com,14,yes,referred by someone
+243, Morgan Parker,Toledo,OH, MorganParker@gmail.com,40,yes,special event
+564, Jane Robinson,Elizabeth,NJ, JaneRobinson@gmail.com,20,yes,tik tok

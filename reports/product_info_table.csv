@@ -1,0 +1,280 @@
+product_id(pk),product_name,product_category_id(fk to categories),Price
+1,haikyu mini picture set,1,18.99
+2,spirited away lightbox art,1,21.99
+3,psycho pass wall poster art,1,76.99
+4,haikyu decals,1,5.49
+5,haikyu lightbox art,1,21.99
+6,beastars mini picture set,1,18.99
+7,beastars hand painted originals,1,59.99
+8,godzilla lightbox art,1,21.99
+9,dr stone hand painted originals,1,59.99
+10,dr stone decals,1,5.49
+11,kaiju no 8  mini picture set,1,18.99
+12,my hero academia canvas prints,1,15
+13,dorohedoro hand painted originals,1,59.99
+14,kaiju no 8  decals,1,5.49
+15,kaiju no 8  canvas prints,1,15
+16,spyxfamily lightbox art,1,21.99
+17,spirited away decals,1,5.49
+18,dorohedoro mini picture set,1,18.99
+19,kaiju no 8  lightbox art,1,21.99
+20,haikyu hand painted originals,1,59.99
+21,my hero academia mini picture set,1,18.99
+22,godzilla mini picture set,1,18.99
+23,psycho pass mini picture set,1,18.99
+24,psycho pass hand painted originals,1,59.99
+25,beastars lightbox art,1,21.99
+26,spyxfamily decals,1,5.49
+27,beastars decals,1,5.49
+28,haikyu canvas prints,1,15
+29,dr stone wall poster art,1,76.99
+30,spirited away wall poster art,1,76.99
+31,spyxfamily mini picture set,1,18.99
+32,dorohedoro wall poster art,1,76.99
+33,my hero academia hand painted originals,1,59.99
+34,haikyu wall poster art,1,76.99
+35,psycho pass lightbox art,1,21.99
+36,spirited away mini picture set,1,18.99
+37,jujustu kaisen wall poster art,1,76.99
+38,dr stone mini picture set,1,18.99
+39,spyxfamily hand painted originals,1,59.99
+40,godzilla decals,1,5.49
+41,psycho pass canvas prints,1,15
+42,spirited away canvas prints,1,15
+43,dorohedoro lightbox art,1,21.99
+44,dorohedoro canvas prints,1,15
+45,godzilla wall poster art,1,76.99
+46,jujustu kaisen lightbox art,1,21.99
+47,jujustu kaisen hand painted originals,1,59.99
+48,godzilla canvas prints,1,15
+49,dr stone canvas prints,1,15
+50,spyxfamily canvas prints,1,15
+51,dorohedoro decals,1,5.49
+52,dr stone lightbox art,1,21.99
+53,godzilla hand painted originals,1,59.99
+54,jujustu kaisen decals,1,5.49
+55,jujustu kaisen mini picture set,1,18.99
+56,kaiju no 8  wall poster art,1,76.99
+57,beastars wall poster art,1,76.99
+58,jujustu kaisen canvas prints,1,15
+59,spirited away hand painted originals,1,59.99
+60,beastars plush toy 3 set,2,31.99
+61,beastars plush pillow,2,19.99
+62,godzilla plush pillow,2,19.99
+63,godzilla plush toy family size,2,42.99
+64,psycho pass plush toy 3 set,2,31.99
+65,dorohedoro plush toy 3 set,2,31.99
+66,kaiju no 8  plush toy family size,2,42.99
+67,kaiju no 8  mini desk plushy,2,11.99
+68,my hero academia mini desk plushy,2,11.99
+69,haikyu plush toy family size,2,42.99
+70,godzilla plush toy 3 set,2,31.99
+71,psycho pass plush toy single,2,7.49
+72,spyxfamily mini desk plushy,2,11.99
+73,spyxfamily plush toy 3 set,2,31.99
+74,haikyu plush toy single,2,7.49
+75,my hero academia plush toy family size,2,42.99
+76,jujustu kaisen mini desk plushy,2,11.99
+77,spirited away plush toy family size,2,42.99
+78,kaiju no 8  plush toy 3 set,2,31.99
+79,beastars plush toy single,2,7.49
+80,psycho pass mini desk plushy,2,11.99
+81,jujustu kaisen plush pillow,2,19.99
+82,beastars mini desk plushy,2,11.99
+83,dorohedoro plush toy single,2,7.49
+84,haikyu mini desk plushy,2,11.99
+85,jujustu kaisen plush toy family size,2,42.99
+86,spirited away plush toy 3 set,2,31.99
+87,jujustu kaisen plush toy single,2,7.49
+88,kaiju no 8  plush toy single,2,7.49
+89,dr stone plush toy single,2,7.49
+90,spirited away mini desk plushy,2,11.99
+91,kaiju no 8  plush pillow,2,19.99
+92,psycho pass plush toy family size,2,42.99
+93,my hero academia plush toy single,2,7.49
+94,dorohedoro plush toy family size,2,42.99
+95,dr stone mini desk plushy,2,11.99
+96,dr stone plush pillow,2,19.99
+97,jujustu kaisen plush toy 3 set,2,31.99
+98,dorohedoro mini desk plushy,2,11.99
+99,psycho pass plush pillow,2,19.99
+100,spirited away plush pillow,2,19.99
+101,godzilla mini desk plushy,2,11.99
+102,dr stone plush toy family size,2,42.99
+103,spirited away plush toy single,2,7.49
+104,my hero academia plush pillow,2,19.99
+105,dorohedoro mini action figure,3,9.99
+106,spyxfamily 3 piece action figure set,3,27.99
+107,my hero academia ltd. ed. lifesize figure,3,84.99
+108,kaiju no 8  mini action figure,3,9.99
+109,dorohedoro ltd. ed. lifesize figure,3,84.99
+110,kaiju no 8  keychain action figure,3,8.99
+111,psycho pass keychain action figure,3,8.99
+112,psycho pass ltd. ed. lifesize figure,3,84.99
+113,psycho pass mini action figure,3,9.99
+114,haikyu mini action figure,3,9.99
+115,spyxfamily keychain action figure,3,8.99
+116,dr stone keychain action figure,3,8.99
+117,jujustu kaisen keychain action figure,3,8.99
+118,beastars keychain action figure,3,8.99
+119,spyxfamily mini action figure,3,9.99
+120,dr stone mini action figure,3,9.99
+121,godzilla 3 piece action figure set,3,27.99
+122,dr stone 3 piece action figure set,3,27.99
+123,jujustu kaisen 3 piece action figure set,3,27.99
+124,jujustu kaisen ltd. ed. lifesize figure,3,84.99
+125,my hero academia mini action figure,3,9.99
+126,beastars 3 piece action figure set,3,27.99
+127,godzilla mini action figure,3,9.99
+128,jujustu kaisen digital manga,4,12.99
+129,beastars light novel,4,15.99
+130,kaiju no 8  light novel,4,15.99
+131,dr stone light novel,4,15.99
+132,spirited away digital manga,4,12.99
+133,beastars digital manga,4,12.99
+134,dorohedoro box manga set,4,33.99
+135,my hero academia digital manga,4,12.99
+136,psycho pass light novel,4,15.99
+137,dorohedoro light novel,4,15.99
+138,jujustu kaisen box manga set,4,33.99
+139,beastars box manga set,4,33.99
+140,spirited away box manga set,4,33.99
+141,haikyu box manga set,4,33.99
+142,psycho pass digital manga,4,12.99
+143,spyxfamily box manga set,4,33.99
+144,godzilla digital manga,4,12.99
+145,spyxfamily light novel,4,15.99
+146,dorohedoro digital manga,4,12.99
+147,jujustu kaisen light novel,4,15.99
+148,spyxfamily digital manga,4,12.99
+149,psycho pass box manga set,4,33.99
+150,dr stone box manga set,4,33.99
+151,godzilla accessories build,5,69.99
+152,my hero academia half set cosplay build,5,199.99
+153,beastars half set cosplay build,5,199.99
+154,dr stone full set cosplay build,5,379.99
+155,kaiju no 8  full set cosplay build,5,379.99
+156,dorohedoro half set cosplay build,5,199.99
+157,beastars accessories build,5,69.99
+158,jujustu kaisen full set cosplay build,5,379.99
+159,dorohedoro accessories build,5,69.99
+160,spyxfamily half set cosplay build,5,199.99
+161,dr stone half set cosplay build,5,199.99
+162,jujustu kaisen half set cosplay build,5,199.99
+163,haikyu accessories build,5,69.99
+164,haikyu half set cosplay build,5,199.99
+165,godzilla full set cosplay build,5,379.99
+166,psycho pass half set cosplay build,5,199.99
+167,dr stone accessories build,5,69.99
+168,kaiju no 8  half set cosplay build,5,199.99
+169,beastars full set cosplay build,5,379.99
+170,spirited away full set cosplay build,5,379.99
+171,jujustu kaisen accessories build,5,69.99
+172,dorohedoro full set cosplay build,5,379.99
+173,kaiju no 8  accessories build,5,69.99
+174,godzilla half set cosplay build,5,199.99
+175,haikyu full set cosplay build,5,379.99
+176,psycho pass accessories build,5,69.99
+177,psycho pass full set cosplay build,5,379.99
+178,my hero academia accessories build,5,69.99
+179,my hero academia full set cosplay build,5,379.99
+180,spirited away half set cosplay build,5,199.99
+181,spyxfamily accessories build,5,69.99
+182,spyxfamily full set cosplay build,5,379.99
+183,spirited away accessories build,5,69.99
+184,beastars womens shirt s,6,24.99
+185,haikyu mens shirt m,6,24.99
+186,dr stone hat,6,16.99
+187,kaiju no 8  socks,6,12.99
+188,dr stone beanie,6,17.99
+189,jujustu kaisen womens shirt m,6,24.99
+190,spyxfamily ltd. ed. sunglasses,6,44.99
+191,godzilla socks,6,12.99
+192,dr stone mens shirt s,6,24.99
+193,kaiju no 8  beanie,6,17.99
+194,spirited away hat,6,16.99
+195,kaiju no 8  mens shirt m,6,24.99
+196,godzilla ltd. ed. sunglasses,6,44.99
+197,jujustu kaisen womens shirt s,6,24.99
+198,my hero academia womens shirt s,6,24.99
+199,dr stone womens shirt m,6,24.99
+200,beastars hat,6,16.99
+201,haikyu mens shirt s,6,24.99
+202,spirited away beanie,6,17.99
+203,kaiju no 8  ltd. ed. sunglasses,6,44.99
+204,haikyu womens shirt s,6,24.99
+205,spyxfamily belt,6,24.99
+206,dorohedoro hat,6,16.99
+207,dorohedoro belt,6,24.99
+208,psycho pass womens shirt s,6,24.99
+209,my hero academia mens shirt s,6,24.99
+210,beastars beanie,6,17.99
+211,jujustu kaisen mens shirt m,6,24.99
+212,haikyu hat,6,16.99
+213,jujustu kaisen socks,6,12.99
+214,godzilla mens shirt s,6,24.99
+215,jujustu kaisen beanie,6,17.99
+216,godzilla womens shirt m,6,24.99
+217,spirited away womens shirt s,6,24.99
+218,haikyu socks,6,12.99
+219,godzilla mens shirt m,6,24.99
+220,kaiju no 8  belt,6,24.99
+221,godzilla beanie,6,17.99
+222,dorohedoro socks,6,12.99
+223,psycho pass mens shirt s,6,24.99
+224,dorohedoro mens shirt m,6,24.99
+225,dorohedoro womens shirt m,6,24.99
+226,dr stone ltd. ed. sunglasses,6,44.99
+227,beastars mens shirt m,6,24.99
+228,spyxfamily mens shirt m,6,24.99
+229,psycho pass socks,6,12.99
+230,dorohedoro ltd. ed. sunglasses,6,44.99
+231,dr stone belt,6,24.99
+232,psycho pass beanie,6,17.99
+233,kaiju no 8  womens shirt s,6,24.99
+234,dorohedoro beanie,6,17.99
+235,kaiju no 8  hat,6,16.99
+236,dr stone socks,6,12.99
+237,psycho pass hat,6,16.99
+238,jujustu kaisen belt,6,24.99
+239,jujustu kaisen mens shirt s,6,24.99
+240,haikyu beanie,6,17.99
+241,psycho pass ltd. ed. sunglasses,6,44.99
+242,my hero academia beanie,6,17.99
+243,psycho pass belt,6,24.99
+244,haikyu womens shirt m,6,24.99
+245,beastars womens shirt m,6,24.99
+246,spirited away ltd. ed. sunglasses,6,44.99
+247,my hero academia mens shirt m,6,24.99
+248,godzilla belt,6,24.99
+249,psycho pass mens shirt m,6,24.99
+250,spirited away belt,6,24.99
+251,jujustu kaisen ltd. ed. sunglasses,6,44.99
+252,my hero academia hat,6,16.99
+253,spirited away womens shirt m,6,24.99
+254,spyxfamily hat,6,16.99
+255,dorohedoro womens shirt s,6,24.99
+256,my hero academia womens shirt m,6,24.99
+257,haikyu ltd. ed. sunglasses,6,44.99
+258,haikyu belt,6,24.99
+259,spyxfamily socks,6,12.99
+260,beastars ltd. ed. sunglasses,6,44.99
+261,spyxfamily womens shirt m,6,24.99
+262,spyxfamily mens shirt s,6,24.99
+263,spirited away mens shirt m,6,24.99
+264,spirited away mens shirt s,6,24.99
+265,dorohedoro mens shirt s,6,24.99
+266,kaiju no 8  mens shirt s,6,24.99
+267,jujustu kaisen hat,6,16.99
+268,dr stone mens shirt m,6,24.99
+269,godzilla hat,6,16.99
+270,beastars mens shirt s,6,24.99
+271,dr stone womens shirt s,6,24.99
+272,beastars belt,6,24.99
+273,kaiju no 8  womens shirt m,6,24.99
+274,my hero academia belt,6,24.99
+275,psycho pass womens shirt m,6,24.99
+276,godzilla womens shirt s,6,24.99
+277,my hero academia socks,6,12.99
+278,beastars socks,6,12.99
+279,my hero academia ltd. ed. sunglasses,6,44.99
